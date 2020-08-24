@@ -1,0 +1,4402 @@
+<Tabela-klient>
+  <klient>
+    <id>113</id>
+    <imie>Jan</imie>
+    <nazwisko>Kowalski</nazwisko>
+    <karnet>1</karnet>
+    <trener>1</trener>
+    <id_kontakt>5</id_kontakt>
+    <id_adres>5</id_adres>
+    <waznosc>2020-02-28 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>114</id>
+    <imie>Paweł</imie>
+    <nazwisko>Auditore</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>6</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-11-24 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>115</id>
+    <imie>Wioletta</imie>
+    <nazwisko>Kozak</nazwisko>
+    <karnet>2</karnet>
+    <trener>4</trener>
+    <id_kontakt>7</id_kontakt>
+    <id_adres>7</id_adres>
+    <waznosc>2020-02-02 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>116</id>
+    <imie>Weronika</imie>
+    <nazwisko>Michalczyk</nazwisko>
+    <karnet>7</karnet>
+    <trener>4</trener>
+    <id_kontakt>8</id_kontakt>
+    <id_adres>8</id_adres>
+    <waznosc>2020-06-09 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>117</id>
+    <imie>Kacper</imie>
+    <nazwisko>Dąbrowski</nazwisko>
+    <karnet>7</karnet>
+    <trener>2</trener>
+    <id_kontakt>9</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-03-25 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>118</id>
+    <imie>Przemysław</imie>
+    <nazwisko>Zięba</nazwisko>
+    <karnet>7</karnet>
+    <trener>2</trener>
+    <id_kontakt>10</id_kontakt>
+    <id_adres>10</id_adres>
+    <waznosc>2020-04-16 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>119</id>
+    <imie>Dorian</imie>
+    <nazwisko>Omlet</nazwisko>
+    <karnet>3</karnet>
+    <trener>3</trener>
+    <id_kontakt>11</id_kontakt>
+    <id_adres>11</id_adres>
+    <waznosc>2020-02-24 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>120</id>
+    <imie>Łukasz</imie>
+    <nazwisko>Czarnecki</nazwisko>
+    <karnet>5</karnet>
+    <trener>3</trener>
+    <id_kontakt>12</id_kontakt>
+    <id_adres>12</id_adres>
+    <waznosc>2020-11-03 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>121</id>
+    <imie>Weronika</imie>
+    <nazwisko>Dąbrowska</nazwisko>
+    <karnet>7</karnet>
+    <trener>4</trener>
+    <id_kontakt>13</id_kontakt>
+    <id_adres>13</id_adres>
+    <waznosc>2020-02-28 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>122</id>
+    <imie>Alicja</imie>
+    <nazwisko>Piotrowska</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>14</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-10-10 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>123</id>
+    <imie>Mariusz</imie>
+    <nazwisko>Krzempek</nazwisko>
+    <karnet>1</karnet>
+    <trener>2</trener>
+    <id_kontakt>6</id_kontakt>
+    <id_adres>2</id_adres>
+    <waznosc>2020-07-08 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>124</id>
+    <imie>Mieczysław</imie>
+    <nazwisko>Szulik</nazwisko>
+    <karnet>5</karnet>
+    <trener>3</trener>
+    <id_kontakt>9</id_kontakt>
+    <id_adres>3</id_adres>
+    <waznosc>2020-05-26 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>125</id>
+    <imie>Ryszard</imie>
+    <nazwisko>Dorsz</nazwisko>
+    <karnet>5</karnet>
+    <trener>3</trener>
+    <id_kontakt>23</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-04-04 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>126</id>
+    <imie>Roman</imie>
+    <nazwisko>Trojanowski</nazwisko>
+    <karnet>6</karnet>
+    <trener>1</trener>
+    <id_kontakt>9</id_kontakt>
+    <id_adres>3</id_adres>
+    <waznosc>2020-11-10 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>127</id>
+    <imie>Marek</imie>
+    <nazwisko>Zubek</nazwisko>
+    <karnet>1</karnet>
+    <trener>3</trener>
+    <id_kontakt>20</id_kontakt>
+    <id_adres>2</id_adres>
+    <waznosc>2020-03-17 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>128</id>
+    <imie>Tomasz</imie>
+    <nazwisko>Kurpiel</nazwisko>
+    <karnet>1</karnet>
+    <trener>2</trener>
+    <id_kontakt>22</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-10-12 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>129</id>
+    <imie>Józef</imie>
+    <nazwisko>Bartczak</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>21</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-01-20 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>130</id>
+    <imie>Kamil</imie>
+    <nazwisko>Grzelak</nazwisko>
+    <karnet>5</karnet>
+    <trener>2</trener>
+    <id_kontakt>23</id_kontakt>
+    <id_adres>13</id_adres>
+    <waznosc>2020-02-23 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>131</id>
+    <imie>Józef</imie>
+    <nazwisko>Szarzyński</nazwisko>
+    <karnet>6</karnet>
+    <trener>3</trener>
+    <id_kontakt>8</id_kontakt>
+    <id_adres>1</id_adres>
+    <waznosc>2020-06-09 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>132</id>
+    <imie>Kazimierz</imie>
+    <nazwisko>Kopański</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>17</id_kontakt>
+    <id_adres>5</id_adres>
+    <waznosc>2020-03-02 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>133</id>
+    <imie>Przemysław</imie>
+    <nazwisko>Grochowski</nazwisko>
+    <karnet>3</karnet>
+    <trener>3</trener>
+    <id_kontakt>9</id_kontakt>
+    <id_adres>10</id_adres>
+    <waznosc>2020-08-28 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>134</id>
+    <imie>Krzysztof</imie>
+    <nazwisko>Szczęch</nazwisko>
+    <karnet>1</karnet>
+    <trener>1</trener>
+    <id_kontakt>1</id_kontakt>
+    <id_adres>2</id_adres>
+    <waznosc>2020-03-03 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>135</id>
+    <imie>Mateusz</imie>
+    <nazwisko>Janusz</nazwisko>
+    <karnet>2</karnet>
+    <trener>1</trener>
+    <id_kontakt>5</id_kontakt>
+    <id_adres>7</id_adres>
+    <waznosc>2020-07-17 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>136</id>
+    <imie>Jacek</imie>
+    <nazwisko>Durak</nazwisko>
+    <karnet>4</karnet>
+    <trener>1</trener>
+    <id_kontakt>5</id_kontakt>
+    <id_adres>13</id_adres>
+    <waznosc>2020-04-04 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>137</id>
+    <imie>Dariusz</imie>
+    <nazwisko>Kożuchowski</nazwisko>
+    <karnet>6</karnet>
+    <trener>3</trener>
+    <id_kontakt>12</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-07-08 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>138</id>
+    <imie>Grzegorz</imie>
+    <nazwisko>Zagajewski</nazwisko>
+    <karnet>1</karnet>
+    <trener>1</trener>
+    <id_kontakt>18</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-06-10 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>139</id>
+    <imie>Roman</imie>
+    <nazwisko>Szulik</nazwisko>
+    <karnet>2</karnet>
+    <trener>3</trener>
+    <id_kontakt>13</id_kontakt>
+    <id_adres>5</id_adres>
+    <waznosc>2020-08-05 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>140</id>
+    <imie>Mieczysław</imie>
+    <nazwisko>Łyczko</nazwisko>
+    <karnet>2</karnet>
+    <trener>2</trener>
+    <id_kontakt>22</id_kontakt>
+    <id_adres>8</id_adres>
+    <waznosc>2020-03-03 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>141</id>
+    <imie>Marcin</imie>
+    <nazwisko>Dembiński</nazwisko>
+    <karnet>4</karnet>
+    <trener>2</trener>
+    <id_kontakt>15</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-05-27 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>142</id>
+    <imie>Andrzej</imie>
+    <nazwisko>Janiszewski</nazwisko>
+    <karnet>2</karnet>
+    <trener>3</trener>
+    <id_kontakt>6</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-05-02 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>143</id>
+    <imie>Wojciech</imie>
+    <nazwisko>Czogała</nazwisko>
+    <karnet>1</karnet>
+    <trener>3</trener>
+    <id_kontakt>23</id_kontakt>
+    <id_adres>2</id_adres>
+    <waznosc>2020-02-08 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>144</id>
+    <imie>Robert</imie>
+    <nazwisko>Bala</nazwisko>
+    <karnet>4</karnet>
+    <trener>1</trener>
+    <id_kontakt>7</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-07-28 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>145</id>
+    <imie>Leszek</imie>
+    <nazwisko>Bryś</nazwisko>
+    <karnet>6</karnet>
+    <trener>1</trener>
+    <id_kontakt>10</id_kontakt>
+    <id_adres>8</id_adres>
+    <waznosc>2020-11-28 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>146</id>
+    <imie>Tomasz</imie>
+    <nazwisko>Janiszewski</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>12</id_kontakt>
+    <id_adres>8</id_adres>
+    <waznosc>2020-04-08 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>147</id>
+    <imie>Łukasz</imie>
+    <nazwisko>Woźnica</nazwisko>
+    <karnet>5</karnet>
+    <trener>3</trener>
+    <id_kontakt>4</id_kontakt>
+    <id_adres>8</id_adres>
+    <waznosc>2020-05-29 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>148</id>
+    <imie>Tomasz</imie>
+    <nazwisko>Sarna</nazwisko>
+    <karnet>6</karnet>
+    <trener>2</trener>
+    <id_kontakt>3</id_kontakt>
+    <id_adres>1</id_adres>
+    <waznosc>2020-05-18 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>149</id>
+    <imie>Andrzej</imie>
+    <nazwisko>Rozwadowski</nazwisko>
+    <karnet>2</karnet>
+    <trener>1</trener>
+    <id_kontakt>19</id_kontakt>
+    <id_adres>2</id_adres>
+    <waznosc>2020-02-22 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>150</id>
+    <imie>Rafał</imie>
+    <nazwisko>Krzyżaniak</nazwisko>
+    <karnet>4</karnet>
+    <trener>3</trener>
+    <id_kontakt>7</id_kontakt>
+    <id_adres>12</id_adres>
+    <waznosc>2020-09-25 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>151</id>
+    <imie>Dawid</imie>
+    <nazwisko>Ogonowski</nazwisko>
+    <karnet>2</karnet>
+    <trener>2</trener>
+    <id_kontakt>20</id_kontakt>
+    <id_adres>13</id_adres>
+    <waznosc>2020-03-08 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>152</id>
+    <imie>Kamil</imie>
+    <nazwisko>Wąsowicz</nazwisko>
+    <karnet>2</karnet>
+    <trener>3</trener>
+    <id_kontakt>14</id_kontakt>
+    <id_adres>13</id_adres>
+    <waznosc>2020-10-12 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>153</id>
+    <imie>Edward</imie>
+    <nazwisko>Strózik</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>22</id_kontakt>
+    <id_adres>12</id_adres>
+    <waznosc>2020-10-13 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>154</id>
+    <imie>Jakub</imie>
+    <nazwisko>Olejarz</nazwisko>
+    <karnet>4</karnet>
+    <trener>1</trener>
+    <id_kontakt>13</id_kontakt>
+    <id_adres>5</id_adres>
+    <waznosc>2020-02-22 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>155</id>
+    <imie>Damian</imie>
+    <nazwisko>Wądołowski</nazwisko>
+    <karnet>5</karnet>
+    <trener>2</trener>
+    <id_kontakt>13</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-03-10 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>156</id>
+    <imie>Jan</imie>
+    <nazwisko>Owczarz</nazwisko>
+    <karnet>2</karnet>
+    <trener>2</trener>
+    <id_kontakt>23</id_kontakt>
+    <id_adres>11</id_adres>
+    <waznosc>2020-06-26 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>157</id>
+    <imie>Henryk</imie>
+    <nazwisko>Maciejak</nazwisko>
+    <karnet>4</karnet>
+    <trener>1</trener>
+    <id_kontakt>15</id_kontakt>
+    <id_adres>10</id_adres>
+    <waznosc>2020-01-16 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>158</id>
+    <imie>Krzysztof</imie>
+    <nazwisko>Sala</nazwisko>
+    <karnet>3</karnet>
+    <trener>1</trener>
+    <id_kontakt>6</id_kontakt>
+    <id_adres>13</id_adres>
+    <waznosc>2020-05-28 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>159</id>
+    <imie>Jarosław</imie>
+    <nazwisko>Zagajewski</nazwisko>
+    <karnet>1</karnet>
+    <trener>2</trener>
+    <id_kontakt>8</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-07-27 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>160</id>
+    <imie>Krzysztof</imie>
+    <nazwisko>Ruciński</nazwisko>
+    <karnet>1</karnet>
+    <trener>3</trener>
+    <id_kontakt>23</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-07-26 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>161</id>
+    <imie>Jan</imie>
+    <nazwisko>Rusek</nazwisko>
+    <karnet>3</karnet>
+    <trener>3</trener>
+    <id_kontakt>7</id_kontakt>
+    <id_adres>10</id_adres>
+    <waznosc>2020-05-17 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>162</id>
+    <imie>Jacek</imie>
+    <nazwisko>Rozwadowski</nazwisko>
+    <karnet>2</karnet>
+    <trener>3</trener>
+    <id_kontakt>5</id_kontakt>
+    <id_adres>11</id_adres>
+    <waznosc>2020-05-05 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>163</id>
+    <imie>Wojciech</imie>
+    <nazwisko>Mikrut</nazwisko>
+    <karnet>6</karnet>
+    <trener>2</trener>
+    <id_kontakt>11</id_kontakt>
+    <id_adres>13</id_adres>
+    <waznosc>2020-01-20 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>164</id>
+    <imie>Józef</imie>
+    <nazwisko>Turowski</nazwisko>
+    <karnet>5</karnet>
+    <trener>2</trener>
+    <id_kontakt>5</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-10-17 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>165</id>
+    <imie>Mieczysław</imie>
+    <nazwisko>Klimowicz</nazwisko>
+    <karnet>6</karnet>
+    <trener>1</trener>
+    <id_kontakt>3</id_kontakt>
+    <id_adres>7</id_adres>
+    <waznosc>2020-06-09 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>166</id>
+    <imie>Kamil</imie>
+    <nazwisko>Rozwadowski</nazwisko>
+    <karnet>2</karnet>
+    <trener>3</trener>
+    <id_kontakt>17</id_kontakt>
+    <id_adres>11</id_adres>
+    <waznosc>2020-01-04 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>167</id>
+    <imie>Damian</imie>
+    <nazwisko>Olewiński</nazwisko>
+    <karnet>6</karnet>
+    <trener>3</trener>
+    <id_kontakt>23</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-11-18 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>168</id>
+    <imie>Maciej</imie>
+    <nazwisko>Piechaczek</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>3</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-11-15 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>169</id>
+    <imie>Henryk</imie>
+    <nazwisko>Żelazko</nazwisko>
+    <karnet>2</karnet>
+    <trener>2</trener>
+    <id_kontakt>11</id_kontakt>
+    <id_adres>8</id_adres>
+    <waznosc>2020-01-01 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>170</id>
+    <imie>Grzegorz</imie>
+    <nazwisko>Hebel</nazwisko>
+    <karnet>3</karnet>
+    <trener>1</trener>
+    <id_kontakt>1</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-01-13 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>171</id>
+    <imie>Zdzisław</imie>
+    <nazwisko>Ruciński</nazwisko>
+    <karnet>2</karnet>
+    <trener>2</trener>
+    <id_kontakt>4</id_kontakt>
+    <id_adres>12</id_adres>
+    <waznosc>2020-09-25 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>172</id>
+    <imie>Robert</imie>
+    <nazwisko>Rydz</nazwisko>
+    <karnet>4</karnet>
+    <trener>2</trener>
+    <id_kontakt>19</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-09-04 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>173</id>
+    <imie>Wojciech</imie>
+    <nazwisko>Bartczak</nazwisko>
+    <karnet>5</karnet>
+    <trener>3</trener>
+    <id_kontakt>6</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-02-21 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>174</id>
+    <imie>Czesław</imie>
+    <nazwisko>Wąsowicz</nazwisko>
+    <karnet>1</karnet>
+    <trener>3</trener>
+    <id_kontakt>20</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-02-13 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>175</id>
+    <imie>Maciej</imie>
+    <nazwisko>Żelazko</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>14</id_kontakt>
+    <id_adres>7</id_adres>
+    <waznosc>2020-02-14 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>176</id>
+    <imie>Mariusz</imie>
+    <nazwisko>Czajka</nazwisko>
+    <karnet>4</karnet>
+    <trener>1</trener>
+    <id_kontakt>8</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-05-13 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>177</id>
+    <imie>Artur</imie>
+    <nazwisko>Kałuża</nazwisko>
+    <karnet>1</karnet>
+    <trener>3</trener>
+    <id_kontakt>17</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-02-12 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>178</id>
+    <imie>Łukasz</imie>
+    <nazwisko>Urbanowski</nazwisko>
+    <karnet>6</karnet>
+    <trener>3</trener>
+    <id_kontakt>4</id_kontakt>
+    <id_adres>5</id_adres>
+    <waznosc>2020-11-21 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>179</id>
+    <imie>Roman</imie>
+    <nazwisko>Ołdak</nazwisko>
+    <karnet>4</karnet>
+    <trener>1</trener>
+    <id_kontakt>14</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-10-12 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>180</id>
+    <imie>Paweł</imie>
+    <nazwisko>Czogała</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>16</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-09-10 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>181</id>
+    <imie>Dariusz</imie>
+    <nazwisko>Woźnica</nazwisko>
+    <karnet>3</karnet>
+    <trener>1</trener>
+    <id_kontakt>11</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-05-05 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>182</id>
+    <imie>Łukasz</imie>
+    <nazwisko>Sarna</nazwisko>
+    <karnet>3</karnet>
+    <trener>3</trener>
+    <id_kontakt>22</id_kontakt>
+    <id_adres>7</id_adres>
+    <waznosc>2020-11-05 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>183</id>
+    <imie>Ryszard</imie>
+    <nazwisko>Ciepliński</nazwisko>
+    <karnet>1</karnet>
+    <trener>3</trener>
+    <id_kontakt>19</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-03-28 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>184</id>
+    <imie>Roman</imie>
+    <nazwisko>Statkiewicz</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>17</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-02-25 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>185</id>
+    <imie>Dawid</imie>
+    <nazwisko>Paprocki</nazwisko>
+    <karnet>6</karnet>
+    <trener>1</trener>
+    <id_kontakt>11</id_kontakt>
+    <id_adres>1</id_adres>
+    <waznosc>2020-01-28 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>186</id>
+    <imie>Marcin</imie>
+    <nazwisko>Bartczak</nazwisko>
+    <karnet>5</karnet>
+    <trener>2</trener>
+    <id_kontakt>7</id_kontakt>
+    <id_adres>12</id_adres>
+    <waznosc>2020-07-17 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>187</id>
+    <imie>Czesław</imie>
+    <nazwisko>Zagajewski</nazwisko>
+    <karnet>6</karnet>
+    <trener>2</trener>
+    <id_kontakt>17</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-02-12 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>188</id>
+    <imie>Marek</imie>
+    <nazwisko>Rozmiarek</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>16</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-08-04 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>189</id>
+    <imie>Andrzej</imie>
+    <nazwisko>Rusek</nazwisko>
+    <karnet>1</karnet>
+    <trener>1</trener>
+    <id_kontakt>1</id_kontakt>
+    <id_adres>11</id_adres>
+    <waznosc>2020-11-10 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>190</id>
+    <imie>Marcin</imie>
+    <nazwisko>Durak</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>4</id_kontakt>
+    <id_adres>1</id_adres>
+    <waznosc>2020-07-04 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>191</id>
+    <imie>Kamil</imie>
+    <nazwisko>Rolka</nazwisko>
+    <karnet>3</karnet>
+    <trener>3</trener>
+    <id_kontakt>8</id_kontakt>
+    <id_adres>1</id_adres>
+    <waznosc>2020-02-11 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>192</id>
+    <imie>Artur</imie>
+    <nazwisko>Jeliński</nazwisko>
+    <karnet>2</karnet>
+    <trener>2</trener>
+    <id_kontakt>5</id_kontakt>
+    <id_adres>8</id_adres>
+    <waznosc>2020-10-21 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>193</id>
+    <imie>Mariusz</imie>
+    <nazwisko>Paprocki</nazwisko>
+    <karnet>3</karnet>
+    <trener>1</trener>
+    <id_kontakt>10</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-09-07 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>194</id>
+    <imie>Łukasz</imie>
+    <nazwisko>Jeliński</nazwisko>
+    <karnet>5</karnet>
+    <trener>3</trener>
+    <id_kontakt>19</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-07-14 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>195</id>
+    <imie>Władysław</imie>
+    <nazwisko>Rusek</nazwisko>
+    <karnet>4</karnet>
+    <trener>2</trener>
+    <id_kontakt>14</id_kontakt>
+    <id_adres>5</id_adres>
+    <waznosc>2020-11-06 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>196</id>
+    <imie>Sławomir</imie>
+    <nazwisko>Bala</nazwisko>
+    <karnet>5</karnet>
+    <trener>2</trener>
+    <id_kontakt>1</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-02-08 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>197</id>
+    <imie>Jakub</imie>
+    <nazwisko>Janczewski</nazwisko>
+    <karnet>4</karnet>
+    <trener>3</trener>
+    <id_kontakt>19</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-06-02 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>198</id>
+    <imie>Józef</imie>
+    <nazwisko>Sarna</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>11</id_kontakt>
+    <id_adres>5</id_adres>
+    <waznosc>2020-01-21 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>199</id>
+    <imie>Robert</imie>
+    <nazwisko>Urbanowski</nazwisko>
+    <karnet>4</karnet>
+    <trener>2</trener>
+    <id_kontakt>13</id_kontakt>
+    <id_adres>3</id_adres>
+    <waznosc>2020-04-23 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>200</id>
+    <imie>Edward</imie>
+    <nazwisko>Idczak</nazwisko>
+    <karnet>2</karnet>
+    <trener>1</trener>
+    <id_kontakt>19</id_kontakt>
+    <id_adres>3</id_adres>
+    <waznosc>2020-03-16 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>201</id>
+    <imie>Marcin</imie>
+    <nazwisko>Rolka</nazwisko>
+    <karnet>2</karnet>
+    <trener>3</trener>
+    <id_kontakt>6</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-01-10 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>202</id>
+    <imie>Tadeusz</imie>
+    <nazwisko>Rozmiarek</nazwisko>
+    <karnet>1</karnet>
+    <trener>1</trener>
+    <id_kontakt>21</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-03-15 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>203</id>
+    <imie>Przemysław</imie>
+    <nazwisko>Mikrut</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>16</id_kontakt>
+    <id_adres>8</id_adres>
+    <waznosc>2020-06-02 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>204</id>
+    <imie>Ryszard</imie>
+    <nazwisko>Szczęch</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>3</id_kontakt>
+    <id_adres>11</id_adres>
+    <waznosc>2020-05-14 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>205</id>
+    <imie>Zbigniew</imie>
+    <nazwisko>Narkiewicz</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>7</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-09-11 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>206</id>
+    <imie>Wiesław</imie>
+    <nazwisko>Sala</nazwisko>
+    <karnet>6</karnet>
+    <trener>3</trener>
+    <id_kontakt>11</id_kontakt>
+    <id_adres>12</id_adres>
+    <waznosc>2020-05-14 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>207</id>
+    <imie>Wiesław</imie>
+    <nazwisko>Łyczko</nazwisko>
+    <karnet>2</karnet>
+    <trener>2</trener>
+    <id_kontakt>17</id_kontakt>
+    <id_adres>13</id_adres>
+    <waznosc>2020-11-03 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>208</id>
+    <imie>Grzegorz</imie>
+    <nazwisko>Bajer</nazwisko>
+    <karnet>1</karnet>
+    <trener>1</trener>
+    <id_kontakt>21</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-06-14 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>209</id>
+    <imie>Artur</imie>
+    <nazwisko>Szczeciński</nazwisko>
+    <karnet>4</karnet>
+    <trener>1</trener>
+    <id_kontakt>1</id_kontakt>
+    <id_adres>10</id_adres>
+    <waznosc>2020-02-02 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>210</id>
+    <imie>Łukasz</imie>
+    <nazwisko>Goździewski</nazwisko>
+    <karnet>1</karnet>
+    <trener>2</trener>
+    <id_kontakt>15</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-05-12 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>211</id>
+    <imie>Stanisław</imie>
+    <nazwisko>Czuba</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>15</id_kontakt>
+    <id_adres>5</id_adres>
+    <waznosc>2020-09-15 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>212</id>
+    <imie>Jerzy</imie>
+    <nazwisko>Łyczko</nazwisko>
+    <karnet>4</karnet>
+    <trener>3</trener>
+    <id_kontakt>15</id_kontakt>
+    <id_adres>1</id_adres>
+    <waznosc>2020-06-19 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>213</id>
+    <imie>Jakub</imie>
+    <nazwisko>Sala</nazwisko>
+    <karnet>2</karnet>
+    <trener>1</trener>
+    <id_kontakt>18</id_kontakt>
+    <id_adres>11</id_adres>
+    <waznosc>2020-01-16 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>214</id>
+    <imie>Mateusz</imie>
+    <nazwisko>Sarna</nazwisko>
+    <karnet>3</karnet>
+    <trener>1</trener>
+    <id_kontakt>4</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-06-10 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>215</id>
+    <imie>Sebastian</imie>
+    <nazwisko>Mikrut</nazwisko>
+    <karnet>3</karnet>
+    <trener>3</trener>
+    <id_kontakt>5</id_kontakt>
+    <id_adres>10</id_adres>
+    <waznosc>2020-10-10 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>216</id>
+    <imie>Tadeusz</imie>
+    <nazwisko>Szczęch</nazwisko>
+    <karnet>1</karnet>
+    <trener>2</trener>
+    <id_kontakt>8</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-11-12 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>217</id>
+    <imie>Marian</imie>
+    <nazwisko>Borkowski</nazwisko>
+    <karnet>5</karnet>
+    <trener>2</trener>
+    <id_kontakt>4</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-09-23 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>218</id>
+    <imie>Marian</imie>
+    <nazwisko>Rolka</nazwisko>
+    <karnet>1</karnet>
+    <trener>2</trener>
+    <id_kontakt>19</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-03-07 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>219</id>
+    <imie>Zdzisław</imie>
+    <nazwisko>Mikrut</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>14</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-10-09 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>220</id>
+    <imie>Przemysław</imie>
+    <nazwisko>Krzempek</nazwisko>
+    <karnet>1</karnet>
+    <trener>2</trener>
+    <id_kontakt>1</id_kontakt>
+    <id_adres>11</id_adres>
+    <waznosc>2020-05-21 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>221</id>
+    <imie>Paweł</imie>
+    <nazwisko>Wiercioch</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>14</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-05-20 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>222</id>
+    <imie>Adam</imie>
+    <nazwisko>Krzempek</nazwisko>
+    <karnet>6</karnet>
+    <trener>2</trener>
+    <id_kontakt>17</id_kontakt>
+    <id_adres>3</id_adres>
+    <waznosc>2020-05-26 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>223</id>
+    <imie>Jan</imie>
+    <nazwisko>Kowalski</nazwisko>
+    <karnet>1</karnet>
+    <trener>1</trener>
+    <id_kontakt>5</id_kontakt>
+    <id_adres>5</id_adres>
+    <waznosc>2020-06-11 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>224</id>
+    <imie>Paweł</imie>
+    <nazwisko>Auditore</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>6</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-02-03 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>225</id>
+    <imie>Wioletta</imie>
+    <nazwisko>Kozak</nazwisko>
+    <karnet>2</karnet>
+    <trener>4</trener>
+    <id_kontakt>7</id_kontakt>
+    <id_adres>7</id_adres>
+    <waznosc>2020-05-21 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>226</id>
+    <imie>Weronika</imie>
+    <nazwisko>Michalczyk</nazwisko>
+    <karnet>7</karnet>
+    <trener>4</trener>
+    <id_kontakt>8</id_kontakt>
+    <id_adres>8</id_adres>
+    <waznosc>2020-07-04 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>227</id>
+    <imie>Kacper</imie>
+    <nazwisko>Dąbrowski</nazwisko>
+    <karnet>7</karnet>
+    <trener>2</trener>
+    <id_kontakt>9</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-02-18 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>228</id>
+    <imie>Przemysław</imie>
+    <nazwisko>Zięba</nazwisko>
+    <karnet>7</karnet>
+    <trener>2</trener>
+    <id_kontakt>10</id_kontakt>
+    <id_adres>10</id_adres>
+    <waznosc>2020-02-14 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>229</id>
+    <imie>Dorian</imie>
+    <nazwisko>Omlet</nazwisko>
+    <karnet>3</karnet>
+    <trener>3</trener>
+    <id_kontakt>11</id_kontakt>
+    <id_adres>11</id_adres>
+    <waznosc>2020-11-11 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>230</id>
+    <imie>Łukasz</imie>
+    <nazwisko>Czarnecki</nazwisko>
+    <karnet>5</karnet>
+    <trener>3</trener>
+    <id_kontakt>12</id_kontakt>
+    <id_adres>12</id_adres>
+    <waznosc>2020-04-28 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>231</id>
+    <imie>Weronika</imie>
+    <nazwisko>Dąbrowska</nazwisko>
+    <karnet>7</karnet>
+    <trener>4</trener>
+    <id_kontakt>13</id_kontakt>
+    <id_adres>13</id_adres>
+    <waznosc>2020-05-16 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>232</id>
+    <imie>Alicja</imie>
+    <nazwisko>Piotrowska</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>14</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-07-04 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>233</id>
+    <imie>Mariusz</imie>
+    <nazwisko>Krzempek</nazwisko>
+    <karnet>1</karnet>
+    <trener>2</trener>
+    <id_kontakt>6</id_kontakt>
+    <id_adres>2</id_adres>
+    <waznosc>2020-03-10 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>234</id>
+    <imie>Mieczysław</imie>
+    <nazwisko>Szulik</nazwisko>
+    <karnet>5</karnet>
+    <trener>3</trener>
+    <id_kontakt>9</id_kontakt>
+    <id_adres>3</id_adres>
+    <waznosc>2020-03-28 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>235</id>
+    <imie>Ryszard</imie>
+    <nazwisko>Dorsz</nazwisko>
+    <karnet>5</karnet>
+    <trener>3</trener>
+    <id_kontakt>23</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-01-17 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>236</id>
+    <imie>Roman</imie>
+    <nazwisko>Trojanowski</nazwisko>
+    <karnet>6</karnet>
+    <trener>1</trener>
+    <id_kontakt>9</id_kontakt>
+    <id_adres>3</id_adres>
+    <waznosc>2020-01-24 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>237</id>
+    <imie>Marek</imie>
+    <nazwisko>Zubek</nazwisko>
+    <karnet>1</karnet>
+    <trener>3</trener>
+    <id_kontakt>20</id_kontakt>
+    <id_adres>2</id_adres>
+    <waznosc>2020-08-15 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>238</id>
+    <imie>Tomasz</imie>
+    <nazwisko>Kurpiel</nazwisko>
+    <karnet>1</karnet>
+    <trener>2</trener>
+    <id_kontakt>22</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-07-07 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>239</id>
+    <imie>Józef</imie>
+    <nazwisko>Bartczak</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>21</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-02-26 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>240</id>
+    <imie>Kamil</imie>
+    <nazwisko>Grzelak</nazwisko>
+    <karnet>5</karnet>
+    <trener>2</trener>
+    <id_kontakt>23</id_kontakt>
+    <id_adres>13</id_adres>
+    <waznosc>2020-02-26 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>241</id>
+    <imie>Józef</imie>
+    <nazwisko>Szarzyński</nazwisko>
+    <karnet>6</karnet>
+    <trener>3</trener>
+    <id_kontakt>8</id_kontakt>
+    <id_adres>1</id_adres>
+    <waznosc>2020-03-19 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>242</id>
+    <imie>Kazimierz</imie>
+    <nazwisko>Kopański</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>17</id_kontakt>
+    <id_adres>5</id_adres>
+    <waznosc>2020-03-17 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>243</id>
+    <imie>Przemysław</imie>
+    <nazwisko>Grochowski</nazwisko>
+    <karnet>3</karnet>
+    <trener>3</trener>
+    <id_kontakt>9</id_kontakt>
+    <id_adres>10</id_adres>
+    <waznosc>2020-11-12 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>244</id>
+    <imie>Krzysztof</imie>
+    <nazwisko>Szczęch</nazwisko>
+    <karnet>1</karnet>
+    <trener>1</trener>
+    <id_kontakt>1</id_kontakt>
+    <id_adres>2</id_adres>
+    <waznosc>2020-06-04 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>245</id>
+    <imie>Mateusz</imie>
+    <nazwisko>Janusz</nazwisko>
+    <karnet>2</karnet>
+    <trener>1</trener>
+    <id_kontakt>5</id_kontakt>
+    <id_adres>7</id_adres>
+    <waznosc>2020-09-02 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>246</id>
+    <imie>Jacek</imie>
+    <nazwisko>Durak</nazwisko>
+    <karnet>4</karnet>
+    <trener>1</trener>
+    <id_kontakt>5</id_kontakt>
+    <id_adres>13</id_adres>
+    <waznosc>2020-02-26 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>247</id>
+    <imie>Dariusz</imie>
+    <nazwisko>Kożuchowski</nazwisko>
+    <karnet>6</karnet>
+    <trener>3</trener>
+    <id_kontakt>12</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-04-10 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>248</id>
+    <imie>Grzegorz</imie>
+    <nazwisko>Zagajewski</nazwisko>
+    <karnet>1</karnet>
+    <trener>1</trener>
+    <id_kontakt>18</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-08-14 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>249</id>
+    <imie>Roman</imie>
+    <nazwisko>Szulik</nazwisko>
+    <karnet>2</karnet>
+    <trener>3</trener>
+    <id_kontakt>13</id_kontakt>
+    <id_adres>5</id_adres>
+    <waznosc>2020-06-22 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>250</id>
+    <imie>Mieczysław</imie>
+    <nazwisko>Łyczko</nazwisko>
+    <karnet>2</karnet>
+    <trener>2</trener>
+    <id_kontakt>22</id_kontakt>
+    <id_adres>8</id_adres>
+    <waznosc>2020-09-23 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>251</id>
+    <imie>Marcin</imie>
+    <nazwisko>Dembiński</nazwisko>
+    <karnet>4</karnet>
+    <trener>2</trener>
+    <id_kontakt>15</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-08-14 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>252</id>
+    <imie>Andrzej</imie>
+    <nazwisko>Janiszewski</nazwisko>
+    <karnet>2</karnet>
+    <trener>3</trener>
+    <id_kontakt>6</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-06-08 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>253</id>
+    <imie>Wojciech</imie>
+    <nazwisko>Czogała</nazwisko>
+    <karnet>1</karnet>
+    <trener>3</trener>
+    <id_kontakt>23</id_kontakt>
+    <id_adres>2</id_adres>
+    <waznosc>2020-06-10 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>254</id>
+    <imie>Robert</imie>
+    <nazwisko>Bala</nazwisko>
+    <karnet>4</karnet>
+    <trener>1</trener>
+    <id_kontakt>7</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-10-18 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>255</id>
+    <imie>Leszek</imie>
+    <nazwisko>Bryś</nazwisko>
+    <karnet>6</karnet>
+    <trener>1</trener>
+    <id_kontakt>10</id_kontakt>
+    <id_adres>8</id_adres>
+    <waznosc>2020-03-05 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>256</id>
+    <imie>Tomasz</imie>
+    <nazwisko>Janiszewski</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>12</id_kontakt>
+    <id_adres>8</id_adres>
+    <waznosc>2020-05-12 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>257</id>
+    <imie>Łukasz</imie>
+    <nazwisko>Woźnica</nazwisko>
+    <karnet>5</karnet>
+    <trener>3</trener>
+    <id_kontakt>4</id_kontakt>
+    <id_adres>8</id_adres>
+    <waznosc>2020-01-17 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>258</id>
+    <imie>Tomasz</imie>
+    <nazwisko>Sarna</nazwisko>
+    <karnet>6</karnet>
+    <trener>2</trener>
+    <id_kontakt>3</id_kontakt>
+    <id_adres>1</id_adres>
+    <waznosc>2020-08-05 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>259</id>
+    <imie>Andrzej</imie>
+    <nazwisko>Rozwadowski</nazwisko>
+    <karnet>2</karnet>
+    <trener>1</trener>
+    <id_kontakt>19</id_kontakt>
+    <id_adres>2</id_adres>
+    <waznosc>2020-10-02 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>260</id>
+    <imie>Rafał</imie>
+    <nazwisko>Krzyżaniak</nazwisko>
+    <karnet>4</karnet>
+    <trener>3</trener>
+    <id_kontakt>7</id_kontakt>
+    <id_adres>12</id_adres>
+    <waznosc>2020-09-10 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>261</id>
+    <imie>Dawid</imie>
+    <nazwisko>Ogonowski</nazwisko>
+    <karnet>2</karnet>
+    <trener>2</trener>
+    <id_kontakt>20</id_kontakt>
+    <id_adres>13</id_adres>
+    <waznosc>2020-08-26 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>262</id>
+    <imie>Kamil</imie>
+    <nazwisko>Wąsowicz</nazwisko>
+    <karnet>2</karnet>
+    <trener>3</trener>
+    <id_kontakt>14</id_kontakt>
+    <id_adres>13</id_adres>
+    <waznosc>2020-11-01 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>263</id>
+    <imie>Edward</imie>
+    <nazwisko>Strózik</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>22</id_kontakt>
+    <id_adres>12</id_adres>
+    <waznosc>2020-03-21 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>264</id>
+    <imie>Jakub</imie>
+    <nazwisko>Olejarz</nazwisko>
+    <karnet>4</karnet>
+    <trener>1</trener>
+    <id_kontakt>13</id_kontakt>
+    <id_adres>5</id_adres>
+    <waznosc>2020-04-22 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>265</id>
+    <imie>Damian</imie>
+    <nazwisko>Wądołowski</nazwisko>
+    <karnet>5</karnet>
+    <trener>2</trener>
+    <id_kontakt>13</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-05-18 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>266</id>
+    <imie>Jan</imie>
+    <nazwisko>Owczarz</nazwisko>
+    <karnet>2</karnet>
+    <trener>2</trener>
+    <id_kontakt>23</id_kontakt>
+    <id_adres>11</id_adres>
+    <waznosc>2020-08-17 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>267</id>
+    <imie>Henryk</imie>
+    <nazwisko>Maciejak</nazwisko>
+    <karnet>4</karnet>
+    <trener>1</trener>
+    <id_kontakt>15</id_kontakt>
+    <id_adres>10</id_adres>
+    <waznosc>2020-03-09 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>268</id>
+    <imie>Krzysztof</imie>
+    <nazwisko>Sala</nazwisko>
+    <karnet>3</karnet>
+    <trener>1</trener>
+    <id_kontakt>6</id_kontakt>
+    <id_adres>13</id_adres>
+    <waznosc>2020-04-21 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>269</id>
+    <imie>Jarosław</imie>
+    <nazwisko>Zagajewski</nazwisko>
+    <karnet>1</karnet>
+    <trener>2</trener>
+    <id_kontakt>8</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-07-20 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>270</id>
+    <imie>Krzysztof</imie>
+    <nazwisko>Ruciński</nazwisko>
+    <karnet>1</karnet>
+    <trener>3</trener>
+    <id_kontakt>23</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-07-02 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>271</id>
+    <imie>Jan</imie>
+    <nazwisko>Rusek</nazwisko>
+    <karnet>3</karnet>
+    <trener>3</trener>
+    <id_kontakt>7</id_kontakt>
+    <id_adres>10</id_adres>
+    <waznosc>2020-08-29 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>272</id>
+    <imie>Jacek</imie>
+    <nazwisko>Rozwadowski</nazwisko>
+    <karnet>2</karnet>
+    <trener>3</trener>
+    <id_kontakt>5</id_kontakt>
+    <id_adres>11</id_adres>
+    <waznosc>2020-06-01 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>273</id>
+    <imie>Wojciech</imie>
+    <nazwisko>Mikrut</nazwisko>
+    <karnet>6</karnet>
+    <trener>2</trener>
+    <id_kontakt>11</id_kontakt>
+    <id_adres>13</id_adres>
+    <waznosc>2020-02-24 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>274</id>
+    <imie>Józef</imie>
+    <nazwisko>Turowski</nazwisko>
+    <karnet>5</karnet>
+    <trener>2</trener>
+    <id_kontakt>5</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-04-22 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>275</id>
+    <imie>Mieczysław</imie>
+    <nazwisko>Klimowicz</nazwisko>
+    <karnet>6</karnet>
+    <trener>1</trener>
+    <id_kontakt>3</id_kontakt>
+    <id_adres>7</id_adres>
+    <waznosc>2020-08-10 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>276</id>
+    <imie>Kamil</imie>
+    <nazwisko>Rozwadowski</nazwisko>
+    <karnet>2</karnet>
+    <trener>3</trener>
+    <id_kontakt>17</id_kontakt>
+    <id_adres>11</id_adres>
+    <waznosc>2020-05-09 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>277</id>
+    <imie>Damian</imie>
+    <nazwisko>Olewiński</nazwisko>
+    <karnet>6</karnet>
+    <trener>3</trener>
+    <id_kontakt>23</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-07-01 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>278</id>
+    <imie>Maciej</imie>
+    <nazwisko>Piechaczek</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>3</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-06-13 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>279</id>
+    <imie>Henryk</imie>
+    <nazwisko>Żelazko</nazwisko>
+    <karnet>2</karnet>
+    <trener>2</trener>
+    <id_kontakt>11</id_kontakt>
+    <id_adres>8</id_adres>
+    <waznosc>2020-08-03 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>280</id>
+    <imie>Grzegorz</imie>
+    <nazwisko>Hebel</nazwisko>
+    <karnet>3</karnet>
+    <trener>1</trener>
+    <id_kontakt>1</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-11-07 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>281</id>
+    <imie>Zdzisław</imie>
+    <nazwisko>Ruciński</nazwisko>
+    <karnet>2</karnet>
+    <trener>2</trener>
+    <id_kontakt>4</id_kontakt>
+    <id_adres>12</id_adres>
+    <waznosc>2020-09-05 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>282</id>
+    <imie>Robert</imie>
+    <nazwisko>Rydz</nazwisko>
+    <karnet>4</karnet>
+    <trener>2</trener>
+    <id_kontakt>19</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-03-09 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>283</id>
+    <imie>Wojciech</imie>
+    <nazwisko>Bartczak</nazwisko>
+    <karnet>5</karnet>
+    <trener>3</trener>
+    <id_kontakt>6</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-05-18 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>284</id>
+    <imie>Czesław</imie>
+    <nazwisko>Wąsowicz</nazwisko>
+    <karnet>1</karnet>
+    <trener>3</trener>
+    <id_kontakt>20</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-09-02 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>285</id>
+    <imie>Maciej</imie>
+    <nazwisko>Żelazko</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>14</id_kontakt>
+    <id_adres>7</id_adres>
+    <waznosc>2020-02-02 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>286</id>
+    <imie>Mariusz</imie>
+    <nazwisko>Czajka</nazwisko>
+    <karnet>4</karnet>
+    <trener>1</trener>
+    <id_kontakt>8</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-03-15 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>287</id>
+    <imie>Artur</imie>
+    <nazwisko>Kałuża</nazwisko>
+    <karnet>1</karnet>
+    <trener>3</trener>
+    <id_kontakt>17</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-06-25 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>288</id>
+    <imie>Łukasz</imie>
+    <nazwisko>Urbanowski</nazwisko>
+    <karnet>6</karnet>
+    <trener>3</trener>
+    <id_kontakt>4</id_kontakt>
+    <id_adres>5</id_adres>
+    <waznosc>2020-10-19 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>289</id>
+    <imie>Roman</imie>
+    <nazwisko>Ołdak</nazwisko>
+    <karnet>4</karnet>
+    <trener>1</trener>
+    <id_kontakt>14</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-08-27 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>290</id>
+    <imie>Paweł</imie>
+    <nazwisko>Czogała</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>16</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-11-09 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>291</id>
+    <imie>Dariusz</imie>
+    <nazwisko>Woźnica</nazwisko>
+    <karnet>3</karnet>
+    <trener>1</trener>
+    <id_kontakt>11</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-03-21 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>292</id>
+    <imie>Łukasz</imie>
+    <nazwisko>Sarna</nazwisko>
+    <karnet>3</karnet>
+    <trener>3</trener>
+    <id_kontakt>22</id_kontakt>
+    <id_adres>7</id_adres>
+    <waznosc>2020-08-08 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>293</id>
+    <imie>Ryszard</imie>
+    <nazwisko>Ciepliński</nazwisko>
+    <karnet>1</karnet>
+    <trener>3</trener>
+    <id_kontakt>19</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-05-25 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>294</id>
+    <imie>Roman</imie>
+    <nazwisko>Statkiewicz</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>17</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-02-18 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>295</id>
+    <imie>Dawid</imie>
+    <nazwisko>Paprocki</nazwisko>
+    <karnet>6</karnet>
+    <trener>1</trener>
+    <id_kontakt>11</id_kontakt>
+    <id_adres>1</id_adres>
+    <waznosc>2020-05-12 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>296</id>
+    <imie>Marcin</imie>
+    <nazwisko>Bartczak</nazwisko>
+    <karnet>5</karnet>
+    <trener>2</trener>
+    <id_kontakt>7</id_kontakt>
+    <id_adres>12</id_adres>
+    <waznosc>2020-09-05 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>297</id>
+    <imie>Czesław</imie>
+    <nazwisko>Zagajewski</nazwisko>
+    <karnet>6</karnet>
+    <trener>2</trener>
+    <id_kontakt>17</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-05-09 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>298</id>
+    <imie>Marek</imie>
+    <nazwisko>Rozmiarek</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>16</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-02-25 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>299</id>
+    <imie>Andrzej</imie>
+    <nazwisko>Rusek</nazwisko>
+    <karnet>1</karnet>
+    <trener>1</trener>
+    <id_kontakt>1</id_kontakt>
+    <id_adres>11</id_adres>
+    <waznosc>2020-08-19 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>300</id>
+    <imie>Marcin</imie>
+    <nazwisko>Durak</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>4</id_kontakt>
+    <id_adres>1</id_adres>
+    <waznosc>2020-11-04 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>301</id>
+    <imie>Kamil</imie>
+    <nazwisko>Rolka</nazwisko>
+    <karnet>3</karnet>
+    <trener>3</trener>
+    <id_kontakt>8</id_kontakt>
+    <id_adres>1</id_adres>
+    <waznosc>2020-02-05 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>302</id>
+    <imie>Artur</imie>
+    <nazwisko>Jeliński</nazwisko>
+    <karnet>2</karnet>
+    <trener>2</trener>
+    <id_kontakt>5</id_kontakt>
+    <id_adres>8</id_adres>
+    <waznosc>2020-06-26 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>303</id>
+    <imie>Mariusz</imie>
+    <nazwisko>Paprocki</nazwisko>
+    <karnet>3</karnet>
+    <trener>1</trener>
+    <id_kontakt>10</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-01-24 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>304</id>
+    <imie>Łukasz</imie>
+    <nazwisko>Jeliński</nazwisko>
+    <karnet>5</karnet>
+    <trener>3</trener>
+    <id_kontakt>19</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-06-01 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>305</id>
+    <imie>Władysław</imie>
+    <nazwisko>Rusek</nazwisko>
+    <karnet>4</karnet>
+    <trener>2</trener>
+    <id_kontakt>14</id_kontakt>
+    <id_adres>5</id_adres>
+    <waznosc>2020-08-25 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>306</id>
+    <imie>Sławomir</imie>
+    <nazwisko>Bala</nazwisko>
+    <karnet>5</karnet>
+    <trener>2</trener>
+    <id_kontakt>1</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-09-12 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>307</id>
+    <imie>Jakub</imie>
+    <nazwisko>Janczewski</nazwisko>
+    <karnet>4</karnet>
+    <trener>3</trener>
+    <id_kontakt>19</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-07-23 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>308</id>
+    <imie>Józef</imie>
+    <nazwisko>Sarna</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>11</id_kontakt>
+    <id_adres>5</id_adres>
+    <waznosc>2020-11-11 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>309</id>
+    <imie>Robert</imie>
+    <nazwisko>Urbanowski</nazwisko>
+    <karnet>4</karnet>
+    <trener>2</trener>
+    <id_kontakt>13</id_kontakt>
+    <id_adres>3</id_adres>
+    <waznosc>2020-01-16 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>310</id>
+    <imie>Edward</imie>
+    <nazwisko>Idczak</nazwisko>
+    <karnet>2</karnet>
+    <trener>1</trener>
+    <id_kontakt>19</id_kontakt>
+    <id_adres>3</id_adres>
+    <waznosc>2020-09-11 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>311</id>
+    <imie>Marcin</imie>
+    <nazwisko>Rolka</nazwisko>
+    <karnet>2</karnet>
+    <trener>3</trener>
+    <id_kontakt>6</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-05-23 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>312</id>
+    <imie>Tadeusz</imie>
+    <nazwisko>Rozmiarek</nazwisko>
+    <karnet>1</karnet>
+    <trener>1</trener>
+    <id_kontakt>21</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-10-29 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>313</id>
+    <imie>Przemysław</imie>
+    <nazwisko>Mikrut</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>16</id_kontakt>
+    <id_adres>8</id_adres>
+    <waznosc>2020-01-14 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>314</id>
+    <imie>Ryszard</imie>
+    <nazwisko>Szczęch</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>3</id_kontakt>
+    <id_adres>11</id_adres>
+    <waznosc>2020-03-15 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>315</id>
+    <imie>Zbigniew</imie>
+    <nazwisko>Narkiewicz</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>7</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-03-13 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>316</id>
+    <imie>Wiesław</imie>
+    <nazwisko>Sala</nazwisko>
+    <karnet>6</karnet>
+    <trener>3</trener>
+    <id_kontakt>11</id_kontakt>
+    <id_adres>12</id_adres>
+    <waznosc>2020-09-21 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>317</id>
+    <imie>Wiesław</imie>
+    <nazwisko>Łyczko</nazwisko>
+    <karnet>2</karnet>
+    <trener>2</trener>
+    <id_kontakt>17</id_kontakt>
+    <id_adres>13</id_adres>
+    <waznosc>2020-02-21 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>318</id>
+    <imie>Grzegorz</imie>
+    <nazwisko>Bajer</nazwisko>
+    <karnet>1</karnet>
+    <trener>1</trener>
+    <id_kontakt>21</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-03-01 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>319</id>
+    <imie>Artur</imie>
+    <nazwisko>Szczeciński</nazwisko>
+    <karnet>4</karnet>
+    <trener>1</trener>
+    <id_kontakt>1</id_kontakt>
+    <id_adres>10</id_adres>
+    <waznosc>2020-05-24 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>320</id>
+    <imie>Łukasz</imie>
+    <nazwisko>Goździewski</nazwisko>
+    <karnet>1</karnet>
+    <trener>2</trener>
+    <id_kontakt>15</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-01-25 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>321</id>
+    <imie>Stanisław</imie>
+    <nazwisko>Czuba</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>15</id_kontakt>
+    <id_adres>5</id_adres>
+    <waznosc>2020-10-24 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>322</id>
+    <imie>Jerzy</imie>
+    <nazwisko>Łyczko</nazwisko>
+    <karnet>4</karnet>
+    <trener>3</trener>
+    <id_kontakt>15</id_kontakt>
+    <id_adres>1</id_adres>
+    <waznosc>2020-04-20 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>323</id>
+    <imie>Jakub</imie>
+    <nazwisko>Sala</nazwisko>
+    <karnet>2</karnet>
+    <trener>1</trener>
+    <id_kontakt>18</id_kontakt>
+    <id_adres>11</id_adres>
+    <waznosc>2020-02-13 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>324</id>
+    <imie>Mateusz</imie>
+    <nazwisko>Sarna</nazwisko>
+    <karnet>3</karnet>
+    <trener>1</trener>
+    <id_kontakt>4</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-09-22 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>325</id>
+    <imie>Sebastian</imie>
+    <nazwisko>Mikrut</nazwisko>
+    <karnet>3</karnet>
+    <trener>3</trener>
+    <id_kontakt>5</id_kontakt>
+    <id_adres>10</id_adres>
+    <waznosc>2020-03-05 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>326</id>
+    <imie>Tadeusz</imie>
+    <nazwisko>Szczęch</nazwisko>
+    <karnet>1</karnet>
+    <trener>2</trener>
+    <id_kontakt>8</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-01-22 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>327</id>
+    <imie>Marian</imie>
+    <nazwisko>Borkowski</nazwisko>
+    <karnet>5</karnet>
+    <trener>2</trener>
+    <id_kontakt>4</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-08-27 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>328</id>
+    <imie>Marian</imie>
+    <nazwisko>Rolka</nazwisko>
+    <karnet>1</karnet>
+    <trener>2</trener>
+    <id_kontakt>19</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-02-19 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>329</id>
+    <imie>Zdzisław</imie>
+    <nazwisko>Mikrut</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>14</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-09-24 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>330</id>
+    <imie>Przemysław</imie>
+    <nazwisko>Krzempek</nazwisko>
+    <karnet>1</karnet>
+    <trener>2</trener>
+    <id_kontakt>1</id_kontakt>
+    <id_adres>11</id_adres>
+    <waznosc>2020-09-28 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>331</id>
+    <imie>Paweł</imie>
+    <nazwisko>Wiercioch</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>14</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-02-04 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>332</id>
+    <imie>Adam</imie>
+    <nazwisko>Krzempek</nazwisko>
+    <karnet>6</karnet>
+    <trener>2</trener>
+    <id_kontakt>17</id_kontakt>
+    <id_adres>3</id_adres>
+    <waznosc>2020-05-15 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>333</id>
+    <imie>Jan</imie>
+    <nazwisko>Kowalski</nazwisko>
+    <karnet>1</karnet>
+    <trener>1</trener>
+    <id_kontakt>5</id_kontakt>
+    <id_adres>5</id_adres>
+    <waznosc>2020-09-05 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>334</id>
+    <imie>Paweł</imie>
+    <nazwisko>Auditore</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>6</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-08-10 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>335</id>
+    <imie>Wioletta</imie>
+    <nazwisko>Kozak</nazwisko>
+    <karnet>2</karnet>
+    <trener>4</trener>
+    <id_kontakt>7</id_kontakt>
+    <id_adres>7</id_adres>
+    <waznosc>2020-01-20 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>336</id>
+    <imie>Weronika</imie>
+    <nazwisko>Michalczyk</nazwisko>
+    <karnet>7</karnet>
+    <trener>4</trener>
+    <id_kontakt>8</id_kontakt>
+    <id_adres>8</id_adres>
+    <waznosc>2020-11-14 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>337</id>
+    <imie>Kacper</imie>
+    <nazwisko>Dąbrowski</nazwisko>
+    <karnet>7</karnet>
+    <trener>2</trener>
+    <id_kontakt>9</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-01-11 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>338</id>
+    <imie>Przemysław</imie>
+    <nazwisko>Zięba</nazwisko>
+    <karnet>7</karnet>
+    <trener>2</trener>
+    <id_kontakt>10</id_kontakt>
+    <id_adres>10</id_adres>
+    <waznosc>2020-07-05 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>339</id>
+    <imie>Dorian</imie>
+    <nazwisko>Omlet</nazwisko>
+    <karnet>3</karnet>
+    <trener>3</trener>
+    <id_kontakt>11</id_kontakt>
+    <id_adres>11</id_adres>
+    <waznosc>2020-07-25 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>340</id>
+    <imie>Łukasz</imie>
+    <nazwisko>Czarnecki</nazwisko>
+    <karnet>5</karnet>
+    <trener>3</trener>
+    <id_kontakt>12</id_kontakt>
+    <id_adres>12</id_adres>
+    <waznosc>2020-07-01 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>341</id>
+    <imie>Weronika</imie>
+    <nazwisko>Dąbrowska</nazwisko>
+    <karnet>7</karnet>
+    <trener>4</trener>
+    <id_kontakt>13</id_kontakt>
+    <id_adres>13</id_adres>
+    <waznosc>2020-07-15 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>342</id>
+    <imie>Alicja</imie>
+    <nazwisko>Piotrowska</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>14</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-07-22 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>343</id>
+    <imie>Mariusz</imie>
+    <nazwisko>Krzempek</nazwisko>
+    <karnet>1</karnet>
+    <trener>2</trener>
+    <id_kontakt>6</id_kontakt>
+    <id_adres>2</id_adres>
+    <waznosc>2020-10-18 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>344</id>
+    <imie>Mieczysław</imie>
+    <nazwisko>Szulik</nazwisko>
+    <karnet>5</karnet>
+    <trener>3</trener>
+    <id_kontakt>9</id_kontakt>
+    <id_adres>3</id_adres>
+    <waznosc>2020-05-13 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>345</id>
+    <imie>Ryszard</imie>
+    <nazwisko>Dorsz</nazwisko>
+    <karnet>5</karnet>
+    <trener>3</trener>
+    <id_kontakt>23</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-07-24 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>346</id>
+    <imie>Roman</imie>
+    <nazwisko>Trojanowski</nazwisko>
+    <karnet>6</karnet>
+    <trener>1</trener>
+    <id_kontakt>9</id_kontakt>
+    <id_adres>3</id_adres>
+    <waznosc>2020-02-12 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>347</id>
+    <imie>Marek</imie>
+    <nazwisko>Zubek</nazwisko>
+    <karnet>1</karnet>
+    <trener>3</trener>
+    <id_kontakt>20</id_kontakt>
+    <id_adres>2</id_adres>
+    <waznosc>2020-08-12 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>348</id>
+    <imie>Tomasz</imie>
+    <nazwisko>Kurpiel</nazwisko>
+    <karnet>1</karnet>
+    <trener>2</trener>
+    <id_kontakt>22</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-10-13 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>349</id>
+    <imie>Józef</imie>
+    <nazwisko>Bartczak</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>21</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-07-04 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>350</id>
+    <imie>Kamil</imie>
+    <nazwisko>Grzelak</nazwisko>
+    <karnet>5</karnet>
+    <trener>2</trener>
+    <id_kontakt>23</id_kontakt>
+    <id_adres>13</id_adres>
+    <waznosc>2020-01-03 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>351</id>
+    <imie>Józef</imie>
+    <nazwisko>Szarzyński</nazwisko>
+    <karnet>6</karnet>
+    <trener>3</trener>
+    <id_kontakt>8</id_kontakt>
+    <id_adres>1</id_adres>
+    <waznosc>2020-08-22 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>352</id>
+    <imie>Kazimierz</imie>
+    <nazwisko>Kopański</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>17</id_kontakt>
+    <id_adres>5</id_adres>
+    <waznosc>2020-07-23 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>353</id>
+    <imie>Przemysław</imie>
+    <nazwisko>Grochowski</nazwisko>
+    <karnet>3</karnet>
+    <trener>3</trener>
+    <id_kontakt>9</id_kontakt>
+    <id_adres>10</id_adres>
+    <waznosc>2020-08-25 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>354</id>
+    <imie>Krzysztof</imie>
+    <nazwisko>Szczęch</nazwisko>
+    <karnet>1</karnet>
+    <trener>1</trener>
+    <id_kontakt>1</id_kontakt>
+    <id_adres>2</id_adres>
+    <waznosc>2020-07-28 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>355</id>
+    <imie>Mateusz</imie>
+    <nazwisko>Janusz</nazwisko>
+    <karnet>2</karnet>
+    <trener>1</trener>
+    <id_kontakt>5</id_kontakt>
+    <id_adres>7</id_adres>
+    <waznosc>2020-05-26 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>356</id>
+    <imie>Jacek</imie>
+    <nazwisko>Durak</nazwisko>
+    <karnet>4</karnet>
+    <trener>1</trener>
+    <id_kontakt>5</id_kontakt>
+    <id_adres>13</id_adres>
+    <waznosc>2020-03-27 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>357</id>
+    <imie>Dariusz</imie>
+    <nazwisko>Kożuchowski</nazwisko>
+    <karnet>6</karnet>
+    <trener>3</trener>
+    <id_kontakt>12</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-05-06 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>358</id>
+    <imie>Grzegorz</imie>
+    <nazwisko>Zagajewski</nazwisko>
+    <karnet>1</karnet>
+    <trener>1</trener>
+    <id_kontakt>18</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-01-17 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>359</id>
+    <imie>Roman</imie>
+    <nazwisko>Szulik</nazwisko>
+    <karnet>2</karnet>
+    <trener>3</trener>
+    <id_kontakt>13</id_kontakt>
+    <id_adres>5</id_adres>
+    <waznosc>2020-08-13 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>360</id>
+    <imie>Mieczysław</imie>
+    <nazwisko>Łyczko</nazwisko>
+    <karnet>2</karnet>
+    <trener>2</trener>
+    <id_kontakt>22</id_kontakt>
+    <id_adres>8</id_adres>
+    <waznosc>2020-10-06 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>361</id>
+    <imie>Marcin</imie>
+    <nazwisko>Dembiński</nazwisko>
+    <karnet>4</karnet>
+    <trener>2</trener>
+    <id_kontakt>15</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-09-29 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>362</id>
+    <imie>Andrzej</imie>
+    <nazwisko>Janiszewski</nazwisko>
+    <karnet>2</karnet>
+    <trener>3</trener>
+    <id_kontakt>6</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-04-13 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>363</id>
+    <imie>Wojciech</imie>
+    <nazwisko>Czogała</nazwisko>
+    <karnet>1</karnet>
+    <trener>3</trener>
+    <id_kontakt>23</id_kontakt>
+    <id_adres>2</id_adres>
+    <waznosc>2020-04-22 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>364</id>
+    <imie>Robert</imie>
+    <nazwisko>Bala</nazwisko>
+    <karnet>4</karnet>
+    <trener>1</trener>
+    <id_kontakt>7</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-01-22 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>365</id>
+    <imie>Leszek</imie>
+    <nazwisko>Bryś</nazwisko>
+    <karnet>6</karnet>
+    <trener>1</trener>
+    <id_kontakt>10</id_kontakt>
+    <id_adres>8</id_adres>
+    <waznosc>2020-08-28 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>366</id>
+    <imie>Tomasz</imie>
+    <nazwisko>Janiszewski</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>12</id_kontakt>
+    <id_adres>8</id_adres>
+    <waznosc>2020-08-25 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>367</id>
+    <imie>Łukasz</imie>
+    <nazwisko>Woźnica</nazwisko>
+    <karnet>5</karnet>
+    <trener>3</trener>
+    <id_kontakt>4</id_kontakt>
+    <id_adres>8</id_adres>
+    <waznosc>2020-03-08 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>368</id>
+    <imie>Tomasz</imie>
+    <nazwisko>Sarna</nazwisko>
+    <karnet>6</karnet>
+    <trener>2</trener>
+    <id_kontakt>3</id_kontakt>
+    <id_adres>1</id_adres>
+    <waznosc>2020-01-21 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>369</id>
+    <imie>Andrzej</imie>
+    <nazwisko>Rozwadowski</nazwisko>
+    <karnet>2</karnet>
+    <trener>1</trener>
+    <id_kontakt>19</id_kontakt>
+    <id_adres>2</id_adres>
+    <waznosc>2020-02-10 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>370</id>
+    <imie>Rafał</imie>
+    <nazwisko>Krzyżaniak</nazwisko>
+    <karnet>4</karnet>
+    <trener>3</trener>
+    <id_kontakt>7</id_kontakt>
+    <id_adres>12</id_adres>
+    <waznosc>2020-06-01 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>371</id>
+    <imie>Dawid</imie>
+    <nazwisko>Ogonowski</nazwisko>
+    <karnet>2</karnet>
+    <trener>2</trener>
+    <id_kontakt>20</id_kontakt>
+    <id_adres>13</id_adres>
+    <waznosc>2020-10-14 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>372</id>
+    <imie>Kamil</imie>
+    <nazwisko>Wąsowicz</nazwisko>
+    <karnet>2</karnet>
+    <trener>3</trener>
+    <id_kontakt>14</id_kontakt>
+    <id_adres>13</id_adres>
+    <waznosc>2020-01-10 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>373</id>
+    <imie>Edward</imie>
+    <nazwisko>Strózik</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>22</id_kontakt>
+    <id_adres>12</id_adres>
+    <waznosc>2020-11-02 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>374</id>
+    <imie>Jakub</imie>
+    <nazwisko>Olejarz</nazwisko>
+    <karnet>4</karnet>
+    <trener>1</trener>
+    <id_kontakt>13</id_kontakt>
+    <id_adres>5</id_adres>
+    <waznosc>2020-08-09 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>375</id>
+    <imie>Damian</imie>
+    <nazwisko>Wądołowski</nazwisko>
+    <karnet>5</karnet>
+    <trener>2</trener>
+    <id_kontakt>13</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-08-17 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>376</id>
+    <imie>Jan</imie>
+    <nazwisko>Owczarz</nazwisko>
+    <karnet>2</karnet>
+    <trener>2</trener>
+    <id_kontakt>23</id_kontakt>
+    <id_adres>11</id_adres>
+    <waznosc>2020-08-14 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>377</id>
+    <imie>Henryk</imie>
+    <nazwisko>Maciejak</nazwisko>
+    <karnet>4</karnet>
+    <trener>1</trener>
+    <id_kontakt>15</id_kontakt>
+    <id_adres>10</id_adres>
+    <waznosc>2020-09-29 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>378</id>
+    <imie>Krzysztof</imie>
+    <nazwisko>Sala</nazwisko>
+    <karnet>3</karnet>
+    <trener>1</trener>
+    <id_kontakt>6</id_kontakt>
+    <id_adres>13</id_adres>
+    <waznosc>2020-09-14 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>379</id>
+    <imie>Jarosław</imie>
+    <nazwisko>Zagajewski</nazwisko>
+    <karnet>1</karnet>
+    <trener>2</trener>
+    <id_kontakt>8</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-06-14 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>380</id>
+    <imie>Krzysztof</imie>
+    <nazwisko>Ruciński</nazwisko>
+    <karnet>1</karnet>
+    <trener>3</trener>
+    <id_kontakt>23</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-03-19 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>381</id>
+    <imie>Jan</imie>
+    <nazwisko>Rusek</nazwisko>
+    <karnet>3</karnet>
+    <trener>3</trener>
+    <id_kontakt>7</id_kontakt>
+    <id_adres>10</id_adres>
+    <waznosc>2020-09-05 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>382</id>
+    <imie>Jacek</imie>
+    <nazwisko>Rozwadowski</nazwisko>
+    <karnet>2</karnet>
+    <trener>3</trener>
+    <id_kontakt>5</id_kontakt>
+    <id_adres>11</id_adres>
+    <waznosc>2020-11-08 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>383</id>
+    <imie>Wojciech</imie>
+    <nazwisko>Mikrut</nazwisko>
+    <karnet>6</karnet>
+    <trener>2</trener>
+    <id_kontakt>11</id_kontakt>
+    <id_adres>13</id_adres>
+    <waznosc>2020-07-18 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>384</id>
+    <imie>Józef</imie>
+    <nazwisko>Turowski</nazwisko>
+    <karnet>5</karnet>
+    <trener>2</trener>
+    <id_kontakt>5</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-10-15 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>385</id>
+    <imie>Mieczysław</imie>
+    <nazwisko>Klimowicz</nazwisko>
+    <karnet>6</karnet>
+    <trener>1</trener>
+    <id_kontakt>3</id_kontakt>
+    <id_adres>7</id_adres>
+    <waznosc>2020-03-20 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>386</id>
+    <imie>Kamil</imie>
+    <nazwisko>Rozwadowski</nazwisko>
+    <karnet>2</karnet>
+    <trener>3</trener>
+    <id_kontakt>17</id_kontakt>
+    <id_adres>11</id_adres>
+    <waznosc>2020-02-27 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>387</id>
+    <imie>Damian</imie>
+    <nazwisko>Olewiński</nazwisko>
+    <karnet>6</karnet>
+    <trener>3</trener>
+    <id_kontakt>23</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-01-10 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>388</id>
+    <imie>Maciej</imie>
+    <nazwisko>Piechaczek</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>3</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-06-05 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>389</id>
+    <imie>Henryk</imie>
+    <nazwisko>Żelazko</nazwisko>
+    <karnet>2</karnet>
+    <trener>2</trener>
+    <id_kontakt>11</id_kontakt>
+    <id_adres>8</id_adres>
+    <waznosc>2020-05-06 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>390</id>
+    <imie>Grzegorz</imie>
+    <nazwisko>Hebel</nazwisko>
+    <karnet>3</karnet>
+    <trener>1</trener>
+    <id_kontakt>1</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-09-20 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>391</id>
+    <imie>Zdzisław</imie>
+    <nazwisko>Ruciński</nazwisko>
+    <karnet>2</karnet>
+    <trener>2</trener>
+    <id_kontakt>4</id_kontakt>
+    <id_adres>12</id_adres>
+    <waznosc>2020-08-23 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>392</id>
+    <imie>Robert</imie>
+    <nazwisko>Rydz</nazwisko>
+    <karnet>4</karnet>
+    <trener>2</trener>
+    <id_kontakt>19</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-05-09 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>393</id>
+    <imie>Wojciech</imie>
+    <nazwisko>Bartczak</nazwisko>
+    <karnet>5</karnet>
+    <trener>3</trener>
+    <id_kontakt>6</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-07-15 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>394</id>
+    <imie>Czesław</imie>
+    <nazwisko>Wąsowicz</nazwisko>
+    <karnet>1</karnet>
+    <trener>3</trener>
+    <id_kontakt>20</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-10-02 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>395</id>
+    <imie>Maciej</imie>
+    <nazwisko>Żelazko</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>14</id_kontakt>
+    <id_adres>7</id_adres>
+    <waznosc>2020-03-21 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>396</id>
+    <imie>Mariusz</imie>
+    <nazwisko>Czajka</nazwisko>
+    <karnet>4</karnet>
+    <trener>1</trener>
+    <id_kontakt>8</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-08-08 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>397</id>
+    <imie>Artur</imie>
+    <nazwisko>Kałuża</nazwisko>
+    <karnet>1</karnet>
+    <trener>3</trener>
+    <id_kontakt>17</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-05-20 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>398</id>
+    <imie>Łukasz</imie>
+    <nazwisko>Urbanowski</nazwisko>
+    <karnet>6</karnet>
+    <trener>3</trener>
+    <id_kontakt>4</id_kontakt>
+    <id_adres>5</id_adres>
+    <waznosc>2020-05-08 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>399</id>
+    <imie>Roman</imie>
+    <nazwisko>Ołdak</nazwisko>
+    <karnet>4</karnet>
+    <trener>1</trener>
+    <id_kontakt>14</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-01-03 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>400</id>
+    <imie>Paweł</imie>
+    <nazwisko>Czogała</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>16</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-11-22 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>401</id>
+    <imie>Dariusz</imie>
+    <nazwisko>Woźnica</nazwisko>
+    <karnet>3</karnet>
+    <trener>1</trener>
+    <id_kontakt>11</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-08-20 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>402</id>
+    <imie>Łukasz</imie>
+    <nazwisko>Sarna</nazwisko>
+    <karnet>3</karnet>
+    <trener>3</trener>
+    <id_kontakt>22</id_kontakt>
+    <id_adres>7</id_adres>
+    <waznosc>2020-09-06 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>403</id>
+    <imie>Ryszard</imie>
+    <nazwisko>Ciepliński</nazwisko>
+    <karnet>1</karnet>
+    <trener>3</trener>
+    <id_kontakt>19</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-02-09 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>404</id>
+    <imie>Roman</imie>
+    <nazwisko>Statkiewicz</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>17</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-01-26 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>405</id>
+    <imie>Dawid</imie>
+    <nazwisko>Paprocki</nazwisko>
+    <karnet>6</karnet>
+    <trener>1</trener>
+    <id_kontakt>11</id_kontakt>
+    <id_adres>1</id_adres>
+    <waznosc>2020-05-05 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>406</id>
+    <imie>Marcin</imie>
+    <nazwisko>Bartczak</nazwisko>
+    <karnet>5</karnet>
+    <trener>2</trener>
+    <id_kontakt>7</id_kontakt>
+    <id_adres>12</id_adres>
+    <waznosc>2020-01-17 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>407</id>
+    <imie>Czesław</imie>
+    <nazwisko>Zagajewski</nazwisko>
+    <karnet>6</karnet>
+    <trener>2</trener>
+    <id_kontakt>17</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-10-15 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>408</id>
+    <imie>Marek</imie>
+    <nazwisko>Rozmiarek</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>16</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-08-16 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>409</id>
+    <imie>Andrzej</imie>
+    <nazwisko>Rusek</nazwisko>
+    <karnet>1</karnet>
+    <trener>1</trener>
+    <id_kontakt>1</id_kontakt>
+    <id_adres>11</id_adres>
+    <waznosc>2020-02-10 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>410</id>
+    <imie>Marcin</imie>
+    <nazwisko>Durak</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>4</id_kontakt>
+    <id_adres>1</id_adres>
+    <waznosc>2020-07-06 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>411</id>
+    <imie>Kamil</imie>
+    <nazwisko>Rolka</nazwisko>
+    <karnet>3</karnet>
+    <trener>3</trener>
+    <id_kontakt>8</id_kontakt>
+    <id_adres>1</id_adres>
+    <waznosc>2020-11-28 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>412</id>
+    <imie>Artur</imie>
+    <nazwisko>Jeliński</nazwisko>
+    <karnet>2</karnet>
+    <trener>2</trener>
+    <id_kontakt>5</id_kontakt>
+    <id_adres>8</id_adres>
+    <waznosc>2020-04-16 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>413</id>
+    <imie>Mariusz</imie>
+    <nazwisko>Paprocki</nazwisko>
+    <karnet>3</karnet>
+    <trener>1</trener>
+    <id_kontakt>10</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-03-26 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>414</id>
+    <imie>Łukasz</imie>
+    <nazwisko>Jeliński</nazwisko>
+    <karnet>5</karnet>
+    <trener>3</trener>
+    <id_kontakt>19</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-05-13 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>415</id>
+    <imie>Władysław</imie>
+    <nazwisko>Rusek</nazwisko>
+    <karnet>4</karnet>
+    <trener>2</trener>
+    <id_kontakt>14</id_kontakt>
+    <id_adres>5</id_adres>
+    <waznosc>2020-03-05 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>416</id>
+    <imie>Sławomir</imie>
+    <nazwisko>Bala</nazwisko>
+    <karnet>5</karnet>
+    <trener>2</trener>
+    <id_kontakt>1</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-04-13 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>417</id>
+    <imie>Jakub</imie>
+    <nazwisko>Janczewski</nazwisko>
+    <karnet>4</karnet>
+    <trener>3</trener>
+    <id_kontakt>19</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-09-13 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>418</id>
+    <imie>Józef</imie>
+    <nazwisko>Sarna</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>11</id_kontakt>
+    <id_adres>5</id_adres>
+    <waznosc>2020-05-25 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>419</id>
+    <imie>Robert</imie>
+    <nazwisko>Urbanowski</nazwisko>
+    <karnet>4</karnet>
+    <trener>2</trener>
+    <id_kontakt>13</id_kontakt>
+    <id_adres>3</id_adres>
+    <waznosc>2020-09-25 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>420</id>
+    <imie>Edward</imie>
+    <nazwisko>Idczak</nazwisko>
+    <karnet>2</karnet>
+    <trener>1</trener>
+    <id_kontakt>19</id_kontakt>
+    <id_adres>3</id_adres>
+    <waznosc>2020-03-06 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>421</id>
+    <imie>Marcin</imie>
+    <nazwisko>Rolka</nazwisko>
+    <karnet>2</karnet>
+    <trener>3</trener>
+    <id_kontakt>6</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-04-17 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>422</id>
+    <imie>Tadeusz</imie>
+    <nazwisko>Rozmiarek</nazwisko>
+    <karnet>1</karnet>
+    <trener>1</trener>
+    <id_kontakt>21</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-07-22 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>423</id>
+    <imie>Przemysław</imie>
+    <nazwisko>Mikrut</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>16</id_kontakt>
+    <id_adres>8</id_adres>
+    <waznosc>2020-02-24 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>424</id>
+    <imie>Ryszard</imie>
+    <nazwisko>Szczęch</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>3</id_kontakt>
+    <id_adres>11</id_adres>
+    <waznosc>2020-01-12 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>425</id>
+    <imie>Zbigniew</imie>
+    <nazwisko>Narkiewicz</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>7</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-11-23 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>426</id>
+    <imie>Wiesław</imie>
+    <nazwisko>Sala</nazwisko>
+    <karnet>6</karnet>
+    <trener>3</trener>
+    <id_kontakt>11</id_kontakt>
+    <id_adres>12</id_adres>
+    <waznosc>2020-05-02 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>427</id>
+    <imie>Wiesław</imie>
+    <nazwisko>Łyczko</nazwisko>
+    <karnet>2</karnet>
+    <trener>2</trener>
+    <id_kontakt>17</id_kontakt>
+    <id_adres>13</id_adres>
+    <waznosc>2020-04-06 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>428</id>
+    <imie>Grzegorz</imie>
+    <nazwisko>Bajer</nazwisko>
+    <karnet>1</karnet>
+    <trener>1</trener>
+    <id_kontakt>21</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-04-20 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>429</id>
+    <imie>Artur</imie>
+    <nazwisko>Szczeciński</nazwisko>
+    <karnet>4</karnet>
+    <trener>1</trener>
+    <id_kontakt>1</id_kontakt>
+    <id_adres>10</id_adres>
+    <waznosc>2020-03-02 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>430</id>
+    <imie>Łukasz</imie>
+    <nazwisko>Goździewski</nazwisko>
+    <karnet>1</karnet>
+    <trener>2</trener>
+    <id_kontakt>15</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-08-09 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>431</id>
+    <imie>Stanisław</imie>
+    <nazwisko>Czuba</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>15</id_kontakt>
+    <id_adres>5</id_adres>
+    <waznosc>2020-07-14 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>432</id>
+    <imie>Jerzy</imie>
+    <nazwisko>Łyczko</nazwisko>
+    <karnet>4</karnet>
+    <trener>3</trener>
+    <id_kontakt>15</id_kontakt>
+    <id_adres>1</id_adres>
+    <waznosc>2020-10-16 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>433</id>
+    <imie>Jakub</imie>
+    <nazwisko>Sala</nazwisko>
+    <karnet>2</karnet>
+    <trener>1</trener>
+    <id_kontakt>18</id_kontakt>
+    <id_adres>11</id_adres>
+    <waznosc>2020-06-23 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>434</id>
+    <imie>Mateusz</imie>
+    <nazwisko>Sarna</nazwisko>
+    <karnet>3</karnet>
+    <trener>1</trener>
+    <id_kontakt>4</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-09-20 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>1</id>
+    <imie>Jan</imie>
+    <nazwisko>Kowalski</nazwisko>
+    <karnet>1</karnet>
+    <trener>1</trener>
+    <id_kontakt>5</id_kontakt>
+    <id_adres>5</id_adres>
+    <waznosc>2019-01-03 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>2</id>
+    <imie>Paweł</imie>
+    <nazwisko>Auditore</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>6</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2019-02-03 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>3</id>
+    <imie>Wioletta</imie>
+    <nazwisko>Kozak</nazwisko>
+    <karnet>2</karnet>
+    <trener>4</trener>
+    <id_kontakt>7</id_kontakt>
+    <id_adres>7</id_adres>
+    <waznosc>2019-01-02 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>4</id>
+    <imie>Weronika</imie>
+    <nazwisko>Michalczyk</nazwisko>
+    <karnet>7</karnet>
+    <trener>4</trener>
+    <id_kontakt>8</id_kontakt>
+    <id_adres>8</id_adres>
+    <waznosc>2019-03-03 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>5</id>
+    <imie>Kacper</imie>
+    <nazwisko>Dąbrowski</nazwisko>
+    <karnet>7</karnet>
+    <trener>2</trener>
+    <id_kontakt>9</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2019-01-14 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>6</id>
+    <imie>Przemysław</imie>
+    <nazwisko>Zięba</nazwisko>
+    <karnet>7</karnet>
+    <trener>2</trener>
+    <id_kontakt>10</id_kontakt>
+    <id_adres>10</id_adres>
+    <waznosc>2019-01-22 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>7</id>
+    <imie>Dorian</imie>
+    <nazwisko>Omlet</nazwisko>
+    <karnet>3</karnet>
+    <trener>3</trener>
+    <id_kontakt>11</id_kontakt>
+    <id_adres>11</id_adres>
+    <waznosc>2019-01-15 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>8</id>
+    <imie>Łukasz</imie>
+    <nazwisko>Czarnecki</nazwisko>
+    <karnet>5</karnet>
+    <trener>3</trener>
+    <id_kontakt>12</id_kontakt>
+    <id_adres>12</id_adres>
+    <waznosc>2019-02-12 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>9</id>
+    <imie>Weronika</imie>
+    <nazwisko>Dąbrowska</nazwisko>
+    <karnet>7</karnet>
+    <trener>4</trener>
+    <id_kontakt>13</id_kontakt>
+    <id_adres>13</id_adres>
+    <waznosc>2019-03-13 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>10</id>
+    <imie>Alicja</imie>
+    <nazwisko>Piotrowska</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>14</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2019-01-18 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>435</id>
+    <imie>Sebastian</imie>
+    <nazwisko>Mikrut</nazwisko>
+    <karnet>3</karnet>
+    <trener>3</trener>
+    <id_kontakt>5</id_kontakt>
+    <id_adres>10</id_adres>
+    <waznosc>2020-06-01 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>436</id>
+    <imie>Tadeusz</imie>
+    <nazwisko>Szczęch</nazwisko>
+    <karnet>1</karnet>
+    <trener>2</trener>
+    <id_kontakt>8</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-10-14 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>437</id>
+    <imie>Marian</imie>
+    <nazwisko>Borkowski</nazwisko>
+    <karnet>5</karnet>
+    <trener>2</trener>
+    <id_kontakt>4</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-02-05 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>438</id>
+    <imie>Marian</imie>
+    <nazwisko>Rolka</nazwisko>
+    <karnet>1</karnet>
+    <trener>2</trener>
+    <id_kontakt>19</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-01-05 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>439</id>
+    <imie>Zdzisław</imie>
+    <nazwisko>Mikrut</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>14</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-03-01 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>440</id>
+    <imie>Przemysław</imie>
+    <nazwisko>Krzempek</nazwisko>
+    <karnet>1</karnet>
+    <trener>2</trener>
+    <id_kontakt>1</id_kontakt>
+    <id_adres>11</id_adres>
+    <waznosc>2020-10-16 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>441</id>
+    <imie>Paweł</imie>
+    <nazwisko>Wiercioch</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>14</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-02-11 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>442</id>
+    <imie>Adam</imie>
+    <nazwisko>Krzempek</nazwisko>
+    <karnet>6</karnet>
+    <trener>2</trener>
+    <id_kontakt>17</id_kontakt>
+    <id_adres>3</id_adres>
+    <waznosc>2020-03-14 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>13</id>
+    <imie>Mariusz</imie>
+    <nazwisko>Krzempek</nazwisko>
+    <karnet>1</karnet>
+    <trener>2</trener>
+    <id_kontakt>6</id_kontakt>
+    <id_adres>2</id_adres>
+    <waznosc>2020-03-26 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>14</id>
+    <imie>Mieczysław</imie>
+    <nazwisko>Szulik</nazwisko>
+    <karnet>5</karnet>
+    <trener>3</trener>
+    <id_kontakt>9</id_kontakt>
+    <id_adres>3</id_adres>
+    <waznosc>2020-07-21 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>15</id>
+    <imie>Ryszard</imie>
+    <nazwisko>Dorsz</nazwisko>
+    <karnet>5</karnet>
+    <trener>3</trener>
+    <id_kontakt>23</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-03-05 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>16</id>
+    <imie>Roman</imie>
+    <nazwisko>Trojanowski</nazwisko>
+    <karnet>6</karnet>
+    <trener>1</trener>
+    <id_kontakt>9</id_kontakt>
+    <id_adres>3</id_adres>
+    <waznosc>2020-09-14 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>17</id>
+    <imie>Marek</imie>
+    <nazwisko>Zubek</nazwisko>
+    <karnet>1</karnet>
+    <trener>3</trener>
+    <id_kontakt>20</id_kontakt>
+    <id_adres>2</id_adres>
+    <waznosc>2020-07-23 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>18</id>
+    <imie>Tomasz</imie>
+    <nazwisko>Kurpiel</nazwisko>
+    <karnet>1</karnet>
+    <trener>2</trener>
+    <id_kontakt>22</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-10-16 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>19</id>
+    <imie>Józef</imie>
+    <nazwisko>Bartczak</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>21</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-10-21 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>20</id>
+    <imie>Kamil</imie>
+    <nazwisko>Grzelak</nazwisko>
+    <karnet>5</karnet>
+    <trener>2</trener>
+    <id_kontakt>23</id_kontakt>
+    <id_adres>13</id_adres>
+    <waznosc>2020-10-05 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>21</id>
+    <imie>Józef</imie>
+    <nazwisko>Szarzyński</nazwisko>
+    <karnet>6</karnet>
+    <trener>3</trener>
+    <id_kontakt>8</id_kontakt>
+    <id_adres>1</id_adres>
+    <waznosc>2020-05-06 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>22</id>
+    <imie>Kazimierz</imie>
+    <nazwisko>Kopański</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>17</id_kontakt>
+    <id_adres>5</id_adres>
+    <waznosc>2020-02-08 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>23</id>
+    <imie>Przemysław</imie>
+    <nazwisko>Grochowski</nazwisko>
+    <karnet>3</karnet>
+    <trener>3</trener>
+    <id_kontakt>9</id_kontakt>
+    <id_adres>10</id_adres>
+    <waznosc>2020-02-18 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>24</id>
+    <imie>Krzysztof</imie>
+    <nazwisko>Szczęch</nazwisko>
+    <karnet>1</karnet>
+    <trener>1</trener>
+    <id_kontakt>1</id_kontakt>
+    <id_adres>2</id_adres>
+    <waznosc>2020-07-27 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>25</id>
+    <imie>Mateusz</imie>
+    <nazwisko>Janusz</nazwisko>
+    <karnet>2</karnet>
+    <trener>1</trener>
+    <id_kontakt>5</id_kontakt>
+    <id_adres>7</id_adres>
+    <waznosc>2020-08-26 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>26</id>
+    <imie>Jacek</imie>
+    <nazwisko>Durak</nazwisko>
+    <karnet>4</karnet>
+    <trener>1</trener>
+    <id_kontakt>5</id_kontakt>
+    <id_adres>13</id_adres>
+    <waznosc>2020-01-14 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>27</id>
+    <imie>Dariusz</imie>
+    <nazwisko>Kożuchowski</nazwisko>
+    <karnet>6</karnet>
+    <trener>3</trener>
+    <id_kontakt>12</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-07-13 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>28</id>
+    <imie>Grzegorz</imie>
+    <nazwisko>Zagajewski</nazwisko>
+    <karnet>1</karnet>
+    <trener>1</trener>
+    <id_kontakt>18</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-10-13 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>29</id>
+    <imie>Roman</imie>
+    <nazwisko>Szulik</nazwisko>
+    <karnet>2</karnet>
+    <trener>3</trener>
+    <id_kontakt>13</id_kontakt>
+    <id_adres>5</id_adres>
+    <waznosc>2020-04-06 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>30</id>
+    <imie>Mieczysław</imie>
+    <nazwisko>Łyczko</nazwisko>
+    <karnet>2</karnet>
+    <trener>2</trener>
+    <id_kontakt>22</id_kontakt>
+    <id_adres>8</id_adres>
+    <waznosc>2020-01-04 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>31</id>
+    <imie>Marcin</imie>
+    <nazwisko>Dembiński</nazwisko>
+    <karnet>4</karnet>
+    <trener>2</trener>
+    <id_kontakt>15</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-05-16 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>32</id>
+    <imie>Andrzej</imie>
+    <nazwisko>Janiszewski</nazwisko>
+    <karnet>2</karnet>
+    <trener>3</trener>
+    <id_kontakt>6</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-04-15 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>33</id>
+    <imie>Wojciech</imie>
+    <nazwisko>Czogała</nazwisko>
+    <karnet>1</karnet>
+    <trener>3</trener>
+    <id_kontakt>23</id_kontakt>
+    <id_adres>2</id_adres>
+    <waznosc>2020-03-01 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>34</id>
+    <imie>Robert</imie>
+    <nazwisko>Bala</nazwisko>
+    <karnet>4</karnet>
+    <trener>1</trener>
+    <id_kontakt>7</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-05-25 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>35</id>
+    <imie>Leszek</imie>
+    <nazwisko>Bryś</nazwisko>
+    <karnet>6</karnet>
+    <trener>1</trener>
+    <id_kontakt>10</id_kontakt>
+    <id_adres>8</id_adres>
+    <waznosc>2020-03-11 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>36</id>
+    <imie>Tomasz</imie>
+    <nazwisko>Janiszewski</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>12</id_kontakt>
+    <id_adres>8</id_adres>
+    <waznosc>2020-02-27 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>37</id>
+    <imie>Łukasz</imie>
+    <nazwisko>Woźnica</nazwisko>
+    <karnet>5</karnet>
+    <trener>3</trener>
+    <id_kontakt>4</id_kontakt>
+    <id_adres>8</id_adres>
+    <waznosc>2020-05-02 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>38</id>
+    <imie>Tomasz</imie>
+    <nazwisko>Sarna</nazwisko>
+    <karnet>6</karnet>
+    <trener>2</trener>
+    <id_kontakt>3</id_kontakt>
+    <id_adres>1</id_adres>
+    <waznosc>2020-11-18 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>39</id>
+    <imie>Andrzej</imie>
+    <nazwisko>Rozwadowski</nazwisko>
+    <karnet>2</karnet>
+    <trener>1</trener>
+    <id_kontakt>19</id_kontakt>
+    <id_adres>2</id_adres>
+    <waznosc>2020-07-12 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>40</id>
+    <imie>Rafał</imie>
+    <nazwisko>Krzyżaniak</nazwisko>
+    <karnet>4</karnet>
+    <trener>3</trener>
+    <id_kontakt>7</id_kontakt>
+    <id_adres>12</id_adres>
+    <waznosc>2020-04-03 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>41</id>
+    <imie>Dawid</imie>
+    <nazwisko>Ogonowski</nazwisko>
+    <karnet>2</karnet>
+    <trener>2</trener>
+    <id_kontakt>20</id_kontakt>
+    <id_adres>13</id_adres>
+    <waznosc>2020-04-23 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>42</id>
+    <imie>Kamil</imie>
+    <nazwisko>Wąsowicz</nazwisko>
+    <karnet>2</karnet>
+    <trener>3</trener>
+    <id_kontakt>14</id_kontakt>
+    <id_adres>13</id_adres>
+    <waznosc>2020-03-23 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>43</id>
+    <imie>Edward</imie>
+    <nazwisko>Strózik</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>22</id_kontakt>
+    <id_adres>12</id_adres>
+    <waznosc>2020-07-17 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>44</id>
+    <imie>Jakub</imie>
+    <nazwisko>Olejarz</nazwisko>
+    <karnet>4</karnet>
+    <trener>1</trener>
+    <id_kontakt>13</id_kontakt>
+    <id_adres>5</id_adres>
+    <waznosc>2020-05-25 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>45</id>
+    <imie>Damian</imie>
+    <nazwisko>Wądołowski</nazwisko>
+    <karnet>5</karnet>
+    <trener>2</trener>
+    <id_kontakt>13</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-06-29 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>46</id>
+    <imie>Jan</imie>
+    <nazwisko>Owczarz</nazwisko>
+    <karnet>2</karnet>
+    <trener>2</trener>
+    <id_kontakt>23</id_kontakt>
+    <id_adres>11</id_adres>
+    <waznosc>2020-04-10 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>47</id>
+    <imie>Henryk</imie>
+    <nazwisko>Maciejak</nazwisko>
+    <karnet>4</karnet>
+    <trener>1</trener>
+    <id_kontakt>15</id_kontakt>
+    <id_adres>10</id_adres>
+    <waznosc>2020-01-28 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>48</id>
+    <imie>Krzysztof</imie>
+    <nazwisko>Sala</nazwisko>
+    <karnet>3</karnet>
+    <trener>1</trener>
+    <id_kontakt>6</id_kontakt>
+    <id_adres>13</id_adres>
+    <waznosc>2020-09-17 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>49</id>
+    <imie>Jarosław</imie>
+    <nazwisko>Zagajewski</nazwisko>
+    <karnet>1</karnet>
+    <trener>2</trener>
+    <id_kontakt>8</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-10-20 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>50</id>
+    <imie>Krzysztof</imie>
+    <nazwisko>Ruciński</nazwisko>
+    <karnet>1</karnet>
+    <trener>3</trener>
+    <id_kontakt>23</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-11-10 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>51</id>
+    <imie>Jan</imie>
+    <nazwisko>Rusek</nazwisko>
+    <karnet>3</karnet>
+    <trener>3</trener>
+    <id_kontakt>7</id_kontakt>
+    <id_adres>10</id_adres>
+    <waznosc>2020-11-14 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>52</id>
+    <imie>Jacek</imie>
+    <nazwisko>Rozwadowski</nazwisko>
+    <karnet>2</karnet>
+    <trener>3</trener>
+    <id_kontakt>5</id_kontakt>
+    <id_adres>11</id_adres>
+    <waznosc>2020-09-17 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>53</id>
+    <imie>Wojciech</imie>
+    <nazwisko>Mikrut</nazwisko>
+    <karnet>6</karnet>
+    <trener>2</trener>
+    <id_kontakt>11</id_kontakt>
+    <id_adres>13</id_adres>
+    <waznosc>2020-09-28 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>54</id>
+    <imie>Józef</imie>
+    <nazwisko>Turowski</nazwisko>
+    <karnet>5</karnet>
+    <trener>2</trener>
+    <id_kontakt>5</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-01-21 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>55</id>
+    <imie>Mieczysław</imie>
+    <nazwisko>Klimowicz</nazwisko>
+    <karnet>6</karnet>
+    <trener>1</trener>
+    <id_kontakt>3</id_kontakt>
+    <id_adres>7</id_adres>
+    <waznosc>2020-05-25 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>56</id>
+    <imie>Kamil</imie>
+    <nazwisko>Rozwadowski</nazwisko>
+    <karnet>2</karnet>
+    <trener>3</trener>
+    <id_kontakt>17</id_kontakt>
+    <id_adres>11</id_adres>
+    <waznosc>2020-05-03 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>57</id>
+    <imie>Damian</imie>
+    <nazwisko>Olewiński</nazwisko>
+    <karnet>6</karnet>
+    <trener>3</trener>
+    <id_kontakt>23</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-07-20 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>58</id>
+    <imie>Maciej</imie>
+    <nazwisko>Piechaczek</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>3</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-06-24 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>59</id>
+    <imie>Henryk</imie>
+    <nazwisko>Żelazko</nazwisko>
+    <karnet>2</karnet>
+    <trener>2</trener>
+    <id_kontakt>11</id_kontakt>
+    <id_adres>8</id_adres>
+    <waznosc>2020-07-20 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>60</id>
+    <imie>Grzegorz</imie>
+    <nazwisko>Hebel</nazwisko>
+    <karnet>3</karnet>
+    <trener>1</trener>
+    <id_kontakt>1</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-06-23 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>61</id>
+    <imie>Zdzisław</imie>
+    <nazwisko>Ruciński</nazwisko>
+    <karnet>2</karnet>
+    <trener>2</trener>
+    <id_kontakt>4</id_kontakt>
+    <id_adres>12</id_adres>
+    <waznosc>2020-09-06 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>62</id>
+    <imie>Robert</imie>
+    <nazwisko>Rydz</nazwisko>
+    <karnet>4</karnet>
+    <trener>2</trener>
+    <id_kontakt>19</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-07-03 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>63</id>
+    <imie>Wojciech</imie>
+    <nazwisko>Bartczak</nazwisko>
+    <karnet>5</karnet>
+    <trener>3</trener>
+    <id_kontakt>6</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-11-24 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>64</id>
+    <imie>Czesław</imie>
+    <nazwisko>Wąsowicz</nazwisko>
+    <karnet>1</karnet>
+    <trener>3</trener>
+    <id_kontakt>20</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-05-07 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>65</id>
+    <imie>Maciej</imie>
+    <nazwisko>Żelazko</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>14</id_kontakt>
+    <id_adres>7</id_adres>
+    <waznosc>2020-10-27 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>66</id>
+    <imie>Mariusz</imie>
+    <nazwisko>Czajka</nazwisko>
+    <karnet>4</karnet>
+    <trener>1</trener>
+    <id_kontakt>8</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-10-20 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>67</id>
+    <imie>Artur</imie>
+    <nazwisko>Kałuża</nazwisko>
+    <karnet>1</karnet>
+    <trener>3</trener>
+    <id_kontakt>17</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-07-19 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>68</id>
+    <imie>Łukasz</imie>
+    <nazwisko>Urbanowski</nazwisko>
+    <karnet>6</karnet>
+    <trener>3</trener>
+    <id_kontakt>4</id_kontakt>
+    <id_adres>5</id_adres>
+    <waznosc>2020-09-29 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>69</id>
+    <imie>Roman</imie>
+    <nazwisko>Ołdak</nazwisko>
+    <karnet>4</karnet>
+    <trener>1</trener>
+    <id_kontakt>14</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-05-18 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>70</id>
+    <imie>Paweł</imie>
+    <nazwisko>Czogała</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>16</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-08-05 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>71</id>
+    <imie>Dariusz</imie>
+    <nazwisko>Woźnica</nazwisko>
+    <karnet>3</karnet>
+    <trener>1</trener>
+    <id_kontakt>11</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-08-01 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>72</id>
+    <imie>Łukasz</imie>
+    <nazwisko>Sarna</nazwisko>
+    <karnet>3</karnet>
+    <trener>3</trener>
+    <id_kontakt>22</id_kontakt>
+    <id_adres>7</id_adres>
+    <waznosc>2020-06-15 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>73</id>
+    <imie>Ryszard</imie>
+    <nazwisko>Ciepliński</nazwisko>
+    <karnet>1</karnet>
+    <trener>3</trener>
+    <id_kontakt>19</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-06-28 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>74</id>
+    <imie>Roman</imie>
+    <nazwisko>Statkiewicz</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>17</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-07-26 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>75</id>
+    <imie>Dawid</imie>
+    <nazwisko>Paprocki</nazwisko>
+    <karnet>6</karnet>
+    <trener>1</trener>
+    <id_kontakt>11</id_kontakt>
+    <id_adres>1</id_adres>
+    <waznosc>2020-06-18 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>76</id>
+    <imie>Marcin</imie>
+    <nazwisko>Bartczak</nazwisko>
+    <karnet>5</karnet>
+    <trener>2</trener>
+    <id_kontakt>7</id_kontakt>
+    <id_adres>12</id_adres>
+    <waznosc>2020-01-01 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>77</id>
+    <imie>Czesław</imie>
+    <nazwisko>Zagajewski</nazwisko>
+    <karnet>6</karnet>
+    <trener>2</trener>
+    <id_kontakt>17</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-04-07 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>78</id>
+    <imie>Marek</imie>
+    <nazwisko>Rozmiarek</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>16</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-10-18 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>79</id>
+    <imie>Andrzej</imie>
+    <nazwisko>Rusek</nazwisko>
+    <karnet>1</karnet>
+    <trener>1</trener>
+    <id_kontakt>1</id_kontakt>
+    <id_adres>11</id_adres>
+    <waznosc>2020-08-22 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>80</id>
+    <imie>Marcin</imie>
+    <nazwisko>Durak</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>4</id_kontakt>
+    <id_adres>1</id_adres>
+    <waznosc>2020-05-28 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>81</id>
+    <imie>Kamil</imie>
+    <nazwisko>Rolka</nazwisko>
+    <karnet>3</karnet>
+    <trener>3</trener>
+    <id_kontakt>8</id_kontakt>
+    <id_adres>1</id_adres>
+    <waznosc>2020-05-19 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>82</id>
+    <imie>Artur</imie>
+    <nazwisko>Jeliński</nazwisko>
+    <karnet>2</karnet>
+    <trener>2</trener>
+    <id_kontakt>5</id_kontakt>
+    <id_adres>8</id_adres>
+    <waznosc>2020-02-14 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>83</id>
+    <imie>Mariusz</imie>
+    <nazwisko>Paprocki</nazwisko>
+    <karnet>3</karnet>
+    <trener>1</trener>
+    <id_kontakt>10</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-08-24 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>84</id>
+    <imie>Łukasz</imie>
+    <nazwisko>Jeliński</nazwisko>
+    <karnet>5</karnet>
+    <trener>3</trener>
+    <id_kontakt>19</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-03-06 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>85</id>
+    <imie>Władysław</imie>
+    <nazwisko>Rusek</nazwisko>
+    <karnet>4</karnet>
+    <trener>2</trener>
+    <id_kontakt>14</id_kontakt>
+    <id_adres>5</id_adres>
+    <waznosc>2020-06-09 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>86</id>
+    <imie>Sławomir</imie>
+    <nazwisko>Bala</nazwisko>
+    <karnet>5</karnet>
+    <trener>2</trener>
+    <id_kontakt>1</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-04-08 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>87</id>
+    <imie>Jakub</imie>
+    <nazwisko>Janczewski</nazwisko>
+    <karnet>4</karnet>
+    <trener>3</trener>
+    <id_kontakt>19</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-02-28 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>88</id>
+    <imie>Józef</imie>
+    <nazwisko>Sarna</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>11</id_kontakt>
+    <id_adres>5</id_adres>
+    <waznosc>2020-03-25 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>89</id>
+    <imie>Robert</imie>
+    <nazwisko>Urbanowski</nazwisko>
+    <karnet>4</karnet>
+    <trener>2</trener>
+    <id_kontakt>13</id_kontakt>
+    <id_adres>3</id_adres>
+    <waznosc>2020-01-20 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>90</id>
+    <imie>Edward</imie>
+    <nazwisko>Idczak</nazwisko>
+    <karnet>2</karnet>
+    <trener>1</trener>
+    <id_kontakt>19</id_kontakt>
+    <id_adres>3</id_adres>
+    <waznosc>2020-08-20 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>91</id>
+    <imie>Marcin</imie>
+    <nazwisko>Rolka</nazwisko>
+    <karnet>2</karnet>
+    <trener>3</trener>
+    <id_kontakt>6</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-09-05 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>92</id>
+    <imie>Tadeusz</imie>
+    <nazwisko>Rozmiarek</nazwisko>
+    <karnet>1</karnet>
+    <trener>1</trener>
+    <id_kontakt>21</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-01-04 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>93</id>
+    <imie>Przemysław</imie>
+    <nazwisko>Mikrut</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>16</id_kontakt>
+    <id_adres>8</id_adres>
+    <waznosc>2020-04-21 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>94</id>
+    <imie>Ryszard</imie>
+    <nazwisko>Szczęch</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>3</id_kontakt>
+    <id_adres>11</id_adres>
+    <waznosc>2020-11-17 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>95</id>
+    <imie>Zbigniew</imie>
+    <nazwisko>Narkiewicz</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>7</id_kontakt>
+    <id_adres>6</id_adres>
+    <waznosc>2020-07-08 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>96</id>
+    <imie>Wiesław</imie>
+    <nazwisko>Sala</nazwisko>
+    <karnet>6</karnet>
+    <trener>3</trener>
+    <id_kontakt>11</id_kontakt>
+    <id_adres>12</id_adres>
+    <waznosc>2020-07-14 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>97</id>
+    <imie>Wiesław</imie>
+    <nazwisko>Łyczko</nazwisko>
+    <karnet>2</karnet>
+    <trener>2</trener>
+    <id_kontakt>17</id_kontakt>
+    <id_adres>13</id_adres>
+    <waznosc>2020-07-29 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>98</id>
+    <imie>Grzegorz</imie>
+    <nazwisko>Bajer</nazwisko>
+    <karnet>1</karnet>
+    <trener>1</trener>
+    <id_kontakt>21</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-11-16 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>99</id>
+    <imie>Artur</imie>
+    <nazwisko>Szczeciński</nazwisko>
+    <karnet>4</karnet>
+    <trener>1</trener>
+    <id_kontakt>1</id_kontakt>
+    <id_adres>10</id_adres>
+    <waznosc>2020-11-27 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>100</id>
+    <imie>Łukasz</imie>
+    <nazwisko>Goździewski</nazwisko>
+    <karnet>1</karnet>
+    <trener>2</trener>
+    <id_kontakt>15</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-05-04 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>101</id>
+    <imie>Stanisław</imie>
+    <nazwisko>Czuba</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>15</id_kontakt>
+    <id_adres>5</id_adres>
+    <waznosc>2020-01-07 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>102</id>
+    <imie>Jerzy</imie>
+    <nazwisko>Łyczko</nazwisko>
+    <karnet>4</karnet>
+    <trener>3</trener>
+    <id_kontakt>15</id_kontakt>
+    <id_adres>1</id_adres>
+    <waznosc>2020-10-10 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>103</id>
+    <imie>Jakub</imie>
+    <nazwisko>Sala</nazwisko>
+    <karnet>2</karnet>
+    <trener>1</trener>
+    <id_kontakt>18</id_kontakt>
+    <id_adres>11</id_adres>
+    <waznosc>2020-06-25 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>104</id>
+    <imie>Mateusz</imie>
+    <nazwisko>Sarna</nazwisko>
+    <karnet>3</karnet>
+    <trener>1</trener>
+    <id_kontakt>4</id_kontakt>
+    <id_adres>14</id_adres>
+    <waznosc>2020-10-27 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>105</id>
+    <imie>Sebastian</imie>
+    <nazwisko>Mikrut</nazwisko>
+    <karnet>3</karnet>
+    <trener>3</trener>
+    <id_kontakt>5</id_kontakt>
+    <id_adres>10</id_adres>
+    <waznosc>2020-06-13 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>106</id>
+    <imie>Tadeusz</imie>
+    <nazwisko>Szczęch</nazwisko>
+    <karnet>1</karnet>
+    <trener>2</trener>
+    <id_kontakt>8</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-02-21 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>107</id>
+    <imie>Marian</imie>
+    <nazwisko>Borkowski</nazwisko>
+    <karnet>5</karnet>
+    <trener>2</trener>
+    <id_kontakt>4</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-05-14 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>108</id>
+    <imie>Marian</imie>
+    <nazwisko>Rolka</nazwisko>
+    <karnet>1</karnet>
+    <trener>2</trener>
+    <id_kontakt>19</id_kontakt>
+    <id_adres>9</id_adres>
+    <waznosc>2020-09-10 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>109</id>
+    <imie>Zdzisław</imie>
+    <nazwisko>Mikrut</nazwisko>
+    <karnet>5</karnet>
+    <trener>1</trener>
+    <id_kontakt>14</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-09-22 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>110</id>
+    <imie>Przemysław</imie>
+    <nazwisko>Krzempek</nazwisko>
+    <karnet>1</karnet>
+    <trener>2</trener>
+    <id_kontakt>1</id_kontakt>
+    <id_adres>11</id_adres>
+    <waznosc>2020-07-05 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>111</id>
+    <imie>Paweł</imie>
+    <nazwisko>Wiercioch</nazwisko>
+    <karnet>3</karnet>
+    <trener>2</trener>
+    <id_kontakt>14</id_kontakt>
+    <id_adres>4</id_adres>
+    <waznosc>2020-02-29 21:02:44</waznosc>
+  </klient>
+  <klient>
+    <id>112</id>
+    <imie>Adam</imie>
+    <nazwisko>Krzempek</nazwisko>
+    <karnet>6</karnet>
+    <trener>2</trener>
+    <id_kontakt>17</id_kontakt>
+    <id_adres>3</id_adres>
+    <waznosc>2020-02-14 21:02:44</waznosc>
+  </klient>
+</Tabela-klient>

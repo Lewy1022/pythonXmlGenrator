@@ -1,0 +1,37 @@
+<Tabela-cennik>
+  <cennik>
+    <id>1</id>
+    <karnet>karnet 3-miesięczny</karnet>
+    <cena>260</cena>
+  </cennik>
+  <cennik>
+    <id>2</id>
+    <karnet>karnet 6-miesięczny</karnet>
+    <cena>460</cena>
+  </cennik>
+  <cennik>
+    <id>3</id>
+    <karnet>karnet 12-miesięczny</karnet>
+    <cena>800</cena>
+  </cennik>
+  <cennik>
+    <id>4</id>
+    <karnet>karnet na 6 wejść</karnet>
+    <cena>79</cena>
+  </cennik>
+  <cennik>
+    <id>5</id>
+    <karnet>karnet na 8 wejść</karnet>
+    <cena>95</cena>
+  </cennik>
+  <cennik>
+    <id>6</id>
+    <karnet>jednorazowe wejście</karnet>
+    <cena>18</cena>
+  </cennik>
+  <cennik>
+    <id>7</id>
+    <karnet>karnet 1-miesięczny</karnet>
+    <cena>100</cena>
+  </cennik>
+</Tabela-cennik>

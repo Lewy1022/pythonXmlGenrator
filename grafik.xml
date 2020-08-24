@@ -1,0 +1,26 @@
+<Tabela-grafik>
+  <grafik>
+    <id>1</id>
+    <idTrenera>1</idTrenera>
+    <godzRozpoczecia>8.0</godzRozpoczecia>
+    <godzZakonczenia>16.0</godzZakonczenia>
+  </grafik>
+  <grafik>
+    <id>2</id>
+    <idTrenera>2</idTrenera>
+    <godzRozpoczecia>9.0</godzRozpoczecia>
+    <godzZakonczenia>17.0</godzZakonczenia>
+  </grafik>
+  <grafik>
+    <id>3</id>
+    <idTrenera>4</idTrenera>
+    <godzRozpoczecia>12.0</godzRozpoczecia>
+    <godzZakonczenia>20.0</godzZakonczenia>
+  </grafik>
+  <grafik>
+    <id>4</id>
+    <idTrenera>3</idTrenera>
+    <godzRozpoczecia>10.0</godzRozpoczecia>
+    <godzZakonczenia>18.0</godzZakonczenia>
+  </grafik>
+</Tabela-grafik>

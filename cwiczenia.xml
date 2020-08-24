@@ -1,0 +1,242 @@
+<Tabela-cwiczenia>
+  <cwiczenie>
+    <id>1</id>
+    <nazwa>Wspięcia na palce stojąc ze sztangą na karku</nazwa>
+    <partia>Łydki</partia>
+    <typ>na siłę</typ>
+    <sprzet>sztanga</sprzet>
+    <trudnosc>początkujący</trudnosc>
+  </cwiczenie>
+  <cwiczenie>
+    <id>2</id>
+    <nazwa>Wspięcie na palce ze sztangielką jednonóż</nazwa>
+    <partia>Łydki</partia>
+    <typ>na siłę</typ>
+    <sprzet>sztanga</sprzet>
+    <trudnosc>początkujący</trudnosc>
+  </cwiczenie>
+  <cwiczenie>
+    <id>3</id>
+    <nazwa>Ośle wspięcia</nazwa>
+    <partia>Łydki</partia>
+    <typ>na siłę, na rzeźbę</typ>
+    <sprzet>Brak</sprzet>
+    <trudnosc>początkujący</trudnosc>
+  </cwiczenie>
+  <cwiczenie>
+    <id>4</id>
+    <nazwa>Wspięcia na palce siedząc z hantlami</nazwa>
+    <partia>Łydki</partia>
+    <typ>na siłę, na rzeźbę</typ>
+    <sprzet>hantle, ławka pozioma</sprzet>
+    <trudnosc>początkujący</trudnosc>
+  </cwiczenie>
+  <cwiczenie>
+    <id>5</id>
+    <nazwa>Wspięcie na palcach ułożonymi na zewnątrz</nazwa>
+    <partia>Łydki</partia>
+    <typ>na siłę, na rzeźbę</typ>
+    <sprzet>suwnica skośna</sprzet>
+    <trudnosc>początkujący</trudnosc>
+  </cwiczenie>
+  <cwiczenie>
+    <id>6</id>
+    <nazwa>Podciąganie hantli wzdłuż tułowia stojąc</nazwa>
+    <partia>Mięsień czworoboczny</partia>
+    <typ>na siłę, na rzeźbę</typ>
+    <sprzet>hantle</sprzet>
+    <trudnosc>początkujący</trudnosc>
+  </cwiczenie>
+  <cwiczenie>
+    <id>7</id>
+    <nazwa>Szrugsy z hantlami w pozycji siedzącej</nazwa>
+    <partia>Mięsień czworoboczny</partia>
+    <typ>na siłę</typ>
+    <sprzet>hantle</sprzet>
+    <trudnosc>początkujący</trudnosc>
+  </cwiczenie>
+  <cwiczenie>
+    <id>8</id>
+    <nazwa>Szrugsy ze sztangą z tyłu</nazwa>
+    <partia>Mięsień czworoboczny</partia>
+    <typ>na siłę</typ>
+    <sprzet>sztanga</sprzet>
+    <trudnosc>początkujący</trudnosc>
+  </cwiczenie>
+  <cwiczenie>
+    <id>9</id>
+    <nazwa>Szrugsy ze sztangą z przodu</nazwa>
+    <partia>Mięsień czworoboczny</partia>
+    <typ>na siłę, na rzeźbę</typ>
+    <sprzet>sztanga</sprzet>
+    <trudnosc>początkujący</trudnosc>
+  </cwiczenie>
+  <cwiczenie>
+    <id>10</id>
+    <nazwa>Wykroki w przód</nazwa>
+    <partia>Mięsień czworogłowy uda</partia>
+    <typ>na siłę, na rzeźbę</typ>
+    <sprzet>brak</sprzet>
+    <trudnosc>początkujący</trudnosc>
+  </cwiczenie>
+  <cwiczenie>
+    <id>11</id>
+    <nazwa>p ze sztangą wspartą na barkach</nazwa>
+    <partia>Mięsień czworogłowy uda</partia>
+    <typ>na siłę</typ>
+    <sprzet>sztanga</sprzet>
+    <trudnosc>zaawansowany</trudnosc>
+  </cwiczenie>
+  <cwiczenie>
+    <id>12</id>
+    <nazwa>Przysiady ze sztangą na jednej nodze</nazwa>
+    <partia>Mięsień czworogłowy uda</partia>
+    <typ>na siłę</typ>
+    <sprzet>sztanga</sprzet>
+    <trudnosc>zaawansowany</trudnosc>
+  </cwiczenie>
+  <cwiczenie>
+    <id>13</id>
+    <nazwa>Przysiady sumo z hantlą</nazwa>
+    <partia>Mięsień czworogłowy uda</partia>
+    <typ>na siłę</typ>
+    <sprzet>hantle</sprzet>
+    <trudnosc>początkujący</trudnosc>
+  </cwiczenie>
+  <cwiczenie>
+    <id>14</id>
+    <nazwa>Wejścia na podwyższenia z hantlami</nazwa>
+    <partia>Mięsień czworogłowy uda</partia>
+    <typ>na siłę</typ>
+    <sprzet>hantle</sprzet>
+    <trudnosc>średniozaawansowany</trudnosc>
+  </cwiczenie>
+  <cwiczenie>
+    <id>15</id>
+    <nazwa>Wykroki w bok</nazwa>
+    <partia>Mięsień czworogłowy uda</partia>
+    <typ>na siłę</typ>
+    <sprzet>brak</sprzet>
+    <trudnosc>początkujący</trudnosc>
+  </cwiczenie>
+  <cwiczenie>
+    <id>16</id>
+    <nazwa>Unoszenie nóg w zwisie</nazwa>
+    <partia>Mięśnie brzucha</partia>
+    <typ>na siłę, na rzeźbę</typ>
+    <sprzet>drążek</sprzet>
+    <trudnosc>zaawansowany</trudnosc>
+  </cwiczenie>
+  <cwiczenie>
+    <id>17</id>
+    <nazwa>Skręty nóg w leżeniu</nazwa>
+    <partia>Mięśnie brzucha</partia>
+    <typ>na siłę</typ>
+    <sprzet>brak</sprzet>
+    <trudnosc>początkujący</trudnosc>
+  </cwiczenie>
+  <cwiczenie>
+    <id>18</id>
+    <nazwa>Siady ze skrętem tułowia</nazwa>
+    <partia>Mięśnie brzucha</partia>
+    <typ>na siłę</typ>
+    <sprzet>brak</sprzet>
+    <trudnosc>początkujący</trudnosc>
+  </cwiczenie>
+  <cwiczenie>
+    <id>19</id>
+    <nazwa>Wznosy tułowia z nogami w górze</nazwa>
+    <partia>Mięśnie brzucha</partia>
+    <typ>na siłę, na rzeźbę</typ>
+    <sprzet>brak</sprzet>
+    <trudnosc>początkujący</trudnosc>
+  </cwiczenie>
+  <cwiczenie>
+    <id>20</id>
+    <nazwa>Skłony boczne</nazwa>
+    <partia>Mięśnie brzucha</partia>
+    <typ>na siłę, na rzeźbę</typ>
+    <sprzet>ławka skośna</sprzet>
+    <trudnosc>początkujący</trudnosc>
+  </cwiczenie>
+  <cwiczenie>
+    <id>21</id>
+    <nazwa>Przyciąganie nóg do klatki piersiowej na ławce skośnej</nazwa>
+    <partia>Mięśnie brzucha</partia>
+    <typ>na siłę, na rzeźbę</typ>
+    <sprzet>ławka skośna</sprzet>
+    <trudnosc>początkujący</trudnosc>
+  </cwiczenie>
+  <cwiczenie>
+    <id>22</id>
+    <nazwa>Skłony boczne na ławce skośnej</nazwa>
+    <partia>Mięśnie brzucha</partia>
+    <typ>na siłę, na rzeźbę</typ>
+    <sprzet>ławka skośna</sprzet>
+    <trudnosc>początkujący</trudnosc>
+  </cwiczenie>
+  <cwiczenie>
+    <id>23</id>
+    <nazwa>Uginanie nadgarstków w podchwycie</nazwa>
+    <partia>Mięśnie przedramienia</partia>
+    <typ>na siłę</typ>
+    <sprzet>sztanga</sprzet>
+    <trudnosc>początkujący</trudnosc>
+  </cwiczenie>
+  <cwiczenie>
+    <id>24</id>
+    <nazwa>Uginanie nadgarstków w nachwycie</nazwa>
+    <partia>Mięśnie przedramienia</partia>
+    <typ>na siłę</typ>
+    <sprzet>sztanga</sprzet>
+    <trudnosc>początkujący</trudnosc>
+  </cwiczenie>
+  <cwiczenie>
+    <id>25</id>
+    <nazwa>Uginanie przedramion w nachwycie</nazwa>
+    <partia>Mięśnie przedramienia</partia>
+    <typ>na siłę</typ>
+    <sprzet>hantle</sprzet>
+    <trudnosc>początkujący</trudnosc>
+  </cwiczenie>
+  <cwiczenie>
+    <id>26</id>
+    <nazwa>Uginanie nadgarstków w podchwycie za plecami</nazwa>
+    <partia>Mięśnie przedramienia</partia>
+    <typ>na siłę</typ>
+    <sprzet>sztanga</sprzet>
+    <trudnosc>początkujący</trudnosc>
+  </cwiczenie>
+  <cwiczenie>
+    <id>27</id>
+    <nazwa>noszenie przedramienia jednorącz w nachwycie</nazwa>
+    <partia>Mięśnie przedramienia</partia>
+    <typ>na siłę</typ>
+    <sprzet>hantle</sprzet>
+    <trudnosc>początkujący</trudnosc>
+  </cwiczenie>
+  <cwiczenie>
+    <id>28</id>
+    <nazwa>Uginanie przedramion w oparciu o ławkę w chwycie młotkowym</nazwa>
+    <partia>Mięśnie przedramienia</partia>
+    <typ>na siłę</typ>
+    <sprzet>hantle, modlitewnik</sprzet>
+    <trudnosc>początkujący</trudnosc>
+  </cwiczenie>
+  <cwiczenie>
+    <id>29</id>
+    <nazwa>Prostowanie przedramion w leżeniu na ławce poziomej</nazwa>
+    <partia>triceps </partia>
+    <typ>na siłę, na rzeźbę</typ>
+    <sprzet>hantle, ławka pozioma</sprzet>
+    <trudnosc>średniozaawansowany</trudnosc>
+  </cwiczenie>
+  <cwiczenie>
+    <id>30</id>
+    <nazwa>Wyciskanie francuskie sztangielki oburącz na ławce skośnej</nazwa>
+    <partia>triceps </partia>
+    <typ>na siłę, na rzeźbę</typ>
+    <sprzet>hantle, ławka pozioma</sprzet>
+    <trudnosc>początkujący</trudnosc>
+  </cwiczenie>
+</Tabela-cwiczenia>
