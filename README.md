@@ -23,7 +23,7 @@ mogą zostać zapisane do bazy danych.
 
 ## Setup
 1. Należy otworzyć wiersz poleceń i należy zmienić ściężkę do folderu wkórym znajduje się generator
-2. Następnie należy wywołąć komendę w wierszu poleceń:'python xml.py <argument1> <argument2><argument3>' gdzie:
+2. Następnie należy wywołąć komendę w wierszu poleceń:`python xml.py <argument1> <argument2><argument3>` gdzie:
    - argument1 - określamy tu czy chcemy dokonac importowania czyeksportowania xml. W tym celu wpisujemy "eksport" lub "import"
    - argument2 - jest to nazwa tabeli do, której importowac xml, lubz niej go eksportować. Dostępne wartości:
      –klient
@@ -35,9 +35,9 @@ mogą zostać zapisane do bazy danych.
      –Plan_cwiczen
      –Rejestr_wejsc_wyjsc
      –Adresy
-   - argument3 - "nazwaPLiku.xml" - w tym argumencie podajemynazwe pliku z rozszerzeniem xml, do ktorego chemy eksportowac lub,z ktorego chcemy importowac xml. Plik zarówno do eksportu jaki importu musi znajdować sie w miejscu gdzie znajduje się skrypt"xml.py"
+   - argument3 - "nazwaPLiku.xml" - w tym argumencie podajemynazwe pliku z rozszerzeniem xml, do ktorego chemy eksportowac lub,z ktorego chcemy importowac xml. Plik zarówno do eksportu jaki importu musi znajdować sie w miejscu gdzie znajduje się skrypt "xml.py"
 
-Przykład użycia:'python xml.py eksport rejestr_wejsc_wyjsc rejestr2.xml'
+Przykład użycia:`python xml.py eksport rejestr_wejsc_wyjsc rejestr2.xml`
 
 
 ## Status
