@@ -35,7 +35,7 @@ mogą zostać zapisane do bazy danych.
      - Plan_cwiczen
      - Rejestr_wejsc_wyjsc
      - Adresy
-   - argument3 - "nazwaPLiku.xml" - w tym argumencie podajemynazwe pliku z rozszerzeniem xml, do ktorego chemy eksportowac lub,z ktorego chcemy importowac xml. Plik zarówno do eksportu jaki importu musi znajdować sie w miejscu gdzie znajduje się skrypt "xml.py"
+   - argument3 - "nazwaPLiku.xml" - w tym argumencie podajemy nazwę pliku z rozszerzeniem xml, do ktorego chemy eksportowac lub, z którego chcemy importować xml. Plik zarówno do eksportu jak i importu musi znajdować sie w miejscu gdzie znajduje się skrypt "xml.py"
 
 Przykład użycia:`python xml.py eksport rejestr_wejsc_wyjsc rejestr2.xml`
 
